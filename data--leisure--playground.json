@@ -1,0 +1,9123 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-03-02T20:16:02Z",
+    "timestamp_areas_base": "2019-03-02T19:52:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 60852949,
+  "lat": 52.5268486,
+  "lon": 13.4650893,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 141464524,
+  "lat": 52.5428016,
+  "lon": 13.1441244,
+  "tags": {
+    "created_by": "Potlatch 0.5d",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 173944403,
+  "lat": 52.4985992,
+  "lon": 13.4434477,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 237858787,
+  "lat": 52.4551007,
+  "lon": 13.3094395,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 254835904,
+  "lat": 52.4347371,
+  "lon": 13.5768812,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 258066936,
+  "lat": 52.5265825,
+  "lon": 13.4707773,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 262201788,
+  "lat": 52.5878028,
+  "lon": 13.5353049,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 268916633,
+  "lat": 52.5707637,
+  "lon": 13.5552162,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 268917387,
+  "lat": 52.5414241,
+  "lon": 13.2069566,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 270814674,
+  "lat": 52.4397920,
+  "lon": 13.2107176,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 270890649,
+  "lat": 52.5696899,
+  "lon": 13.5742628,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 271734801,
+  "lat": 52.4401206,
+  "lon": 13.3460937,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 276790470,
+  "lat": 52.4320631,
+  "lon": 13.4075920,
+  "tags": {
+    "leisure": "playground",
+    "name": "Sonne, Mond und Sterne"
+  }
+},
+{
+  "type": "node",
+  "id": 277786711,
+  "lat": 52.4134409,
+  "lon": 13.3235200,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 277786722,
+  "lat": 52.4154826,
+  "lon": 13.3214600,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 277787525,
+  "lat": 52.4136713,
+  "lon": 13.3191168,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 277803769,
+  "lat": 52.4819227,
+  "lon": 13.1518879,
+  "tags": {
+    "created_by": "Potlatch 0.9c",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 278901674,
+  "lat": 52.4270784,
+  "lon": 13.3605746,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 279173970,
+  "lat": 52.5258649,
+  "lon": 13.4814245,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 288286245,
+  "lat": 52.4496130,
+  "lon": 13.4470590,
+  "tags": {
+    "leisure": "playground",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 288744447,
+  "lat": 52.4513554,
+  "lon": 13.4501505,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 289014836,
+  "lat": 52.4477863,
+  "lon": 13.3203443,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 289241516,
+  "lat": 52.5698840,
+  "lon": 13.5720203,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 291382416,
+  "lat": 52.5612703,
+  "lon": 13.3590446,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 291408387,
+  "lat": 52.4554206,
+  "lon": 13.1170424,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 297409728,
+  "lat": 52.4950783,
+  "lon": 13.5000793,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 297512173,
+  "lat": 52.4686438,
+  "lon": 13.3306300,
+  "tags": {
+    "leisure": "playground",
+    "name": "Hinterhof-Spielplatz",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 298791704,
+  "lat": 52.5336423,
+  "lon": 13.4016366,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 299207667,
+  "lat": 52.4329240,
+  "lon": 13.3151134,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 311482838,
+  "lat": 52.5926426,
+  "lon": 13.4468734,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 320943664,
+  "lat": 52.5218792,
+  "lon": 13.4224286,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 320943667,
+  "lat": 52.5218990,
+  "lon": 13.4207517,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 320952198,
+  "lat": 52.5208996,
+  "lon": 13.4279211,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 325032610,
+  "lat": 52.4932030,
+  "lon": 13.5362893,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 326807347,
+  "lat": 52.5156849,
+  "lon": 13.4246178,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 330399348,
+  "lat": 52.5072730,
+  "lon": 13.4688175,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 335565948,
+  "lat": 52.5648854,
+  "lon": 13.3966124,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:postcode": "13187",
+    "addr:street": "Rettigweg",
+    "addr:suburb": "Pankow",
+    "leisure": "playground",
+    "name": "Spielplatz Rettigweg",
+    "source": "local_knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 339587017,
+  "lat": 52.5726605,
+  "lon": 13.3560486,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 339587018,
+  "lat": 52.5717517,
+  "lon": 13.3553248,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 339587019,
+  "lat": 52.5711017,
+  "lon": 13.3568166,
+  "tags": {
+    "leisure": "playground",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 339587020,
+  "lat": 52.5720527,
+  "lon": 13.3575155,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 339594491,
+  "lat": 52.5770247,
+  "lon": 13.2838394,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 355499424,
+  "lat": 52.4215671,
+  "lon": 13.3671808,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 365599740,
+  "lat": 52.5675673,
+  "lon": 13.4942184,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 365599742,
+  "lat": 52.5674389,
+  "lon": 13.4953750,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 365599745,
+  "lat": 52.5666209,
+  "lon": 13.4973212,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 365599748,
+  "lat": 52.5650256,
+  "lon": 13.4992618,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 365599750,
+  "lat": 52.5663539,
+  "lon": 13.4996622,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 365811063,
+  "lat": 52.5399847,
+  "lon": 13.4444702,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 366626801,
+  "lat": 52.5639123,
+  "lon": 13.3578052,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 370174815,
+  "lat": 52.5236192,
+  "lon": 13.3265462,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 371776064,
+  "lat": 52.5106317,
+  "lon": 13.3114126,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 373432867,
+  "lat": 52.4333001,
+  "lon": 13.4195245,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 373432869,
+  "lat": 52.4337026,
+  "lon": 13.4216303,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 379589320,
+  "lat": 52.4623702,
+  "lon": 13.4901944,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 385199626,
+  "lat": 52.4538108,
+  "lon": 13.5047539,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 388427612,
+  "lat": 52.5212937,
+  "lon": 13.1708427,
+  "tags": {
+    "leisure": "playground",
+    "name": "Abenteuerspielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 388427824,
+  "lat": 52.5210249,
+  "lon": 13.1685961,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 388427876,
+  "lat": 52.5206750,
+  "lon": 13.1702612,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 388428144,
+  "lat": 52.5203826,
+  "lon": 13.1734370,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 388428153,
+  "lat": 52.5197470,
+  "lon": 13.1754523,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 388428166,
+  "lat": 52.5213847,
+  "lon": 13.1776300,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 388428177,
+  "lat": 52.5212495,
+  "lon": 13.1651629,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 388428189,
+  "lat": 52.5192492,
+  "lon": 13.1722868,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 388578546,
+  "lat": 52.5974995,
+  "lon": 13.3760374,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 390351791,
+  "lat": 52.4643016,
+  "lon": 13.3583163,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 410336647,
+  "lat": 52.6025872,
+  "lon": 13.3803012,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 415308246,
+  "lat": 52.4224599,
+  "lon": 13.6289789,
+  "tags": {
+    "leisure": "playground",
+    "name": "Waldspielplatz Promenade Teufelssee",
+    "operator": "Berliner Forsten",
+    "website": "http://www.stadtentwicklung.berlin.de/forsten/freizeit/waldspielplaetze/de/teufelssee.shtml"
+  }
+},
+{
+  "type": "node",
+  "id": 416562507,
+  "lat": 52.6175400,
+  "lon": 13.3922659,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 420506547,
+  "lat": 52.4539221,
+  "lon": 13.3763540,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 420511224,
+  "lat": 52.4520412,
+  "lon": 13.3752558,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 420511858,
+  "lat": 52.4496352,
+  "lon": 13.3679637,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 437289413,
+  "lat": 52.5296648,
+  "lon": 13.3010243,
+  "tags": {
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 440662550,
+  "lat": 52.5036013,
+  "lon": 13.3015425,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 447436570,
+  "lat": 52.5241352,
+  "lon": 13.3207629,
+  "tags": {
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 447436574,
+  "lat": 52.5240358,
+  "lon": 13.3205079,
+  "tags": {
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 450694942,
+  "lat": 52.5366713,
+  "lon": 13.2072562,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 453218651,
+  "lat": 52.4645351,
+  "lon": 13.4677986,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 454172373,
+  "lat": 52.5589881,
+  "lon": 13.4024901,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 454172374,
+  "lat": 52.5582907,
+  "lon": 13.4056446,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 454172375,
+  "lat": 52.5583542,
+  "lon": 13.4046123,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 469110866,
+  "lat": 52.5706779,
+  "lon": 13.4024052,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 469243944,
+  "lat": 52.5720018,
+  "lon": 13.4049959,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 477194888,
+  "lat": 52.4308724,
+  "lon": 13.3989264,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 479078502,
+  "lat": 52.4389129,
+  "lon": 13.5783362,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 480403653,
+  "lat": 52.4963970,
+  "lon": 13.5361285,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 492022212,
+  "lat": 52.6178550,
+  "lon": 13.3370920,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 496147312,
+  "lat": 52.6039079,
+  "lon": 13.3811980,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 507083356,
+  "lat": 52.4320572,
+  "lon": 13.2463890,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 508540557,
+  "lat": 52.5100304,
+  "lon": 13.4869695,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground",
+    "toilets:wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 520117097,
+  "lat": 52.4503523,
+  "lon": 13.2623843,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 521973711,
+  "lat": 52.5000091,
+  "lon": 13.4804391,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 522988551,
+  "lat": 52.4258036,
+  "lon": 13.2920175,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 525478172,
+  "lat": 52.5650477,
+  "lon": 13.4585854,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "105",
+    "addr:postcode": "13088",
+    "addr:street": "Roelckestraße",
+    "addr:suburb": "Weißensee",
+    "indoor": "yes",
+    "leisure": "playground",
+    "name": "Tommy's Tobewelt",
+    "website": "http://www.tommys-tobewelt.de"
+  }
+},
+{
+  "type": "node",
+  "id": 528026550,
+  "lat": 52.4865764,
+  "lon": 13.2960400,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 529686828,
+  "lat": 52.4705009,
+  "lon": 13.3408149,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 534272335,
+  "lat": 52.4096266,
+  "lon": 13.2580674,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 534726577,
+  "lat": 52.4451395,
+  "lon": 13.2712373,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 536387498,
+  "lat": 52.4400669,
+  "lon": 13.6015811,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 536387500,
+  "lat": 52.4389786,
+  "lon": 13.6023450,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 536387501,
+  "lat": 52.4387850,
+  "lon": 13.6031948,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 536387502,
+  "lat": 52.4406948,
+  "lon": 13.6027656,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 536387503,
+  "lat": 52.4406976,
+  "lon": 13.6003104,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 559645650,
+  "lat": 52.5486643,
+  "lon": 13.4956692,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 560832876,
+  "lat": 52.5366479,
+  "lon": 13.5552568,
+  "tags": {
+    "access": "private",
+    "leisure": "playground",
+    "name": "Kita-Spielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 568285574,
+  "lat": 52.5487779,
+  "lon": 13.5006124,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 570699488,
+  "lat": 52.4353549,
+  "lon": 13.2486798,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 573599539,
+  "lat": 52.4356524,
+  "lon": 13.3631652,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 573599542,
+  "lat": 52.4349724,
+  "lon": 13.3606419,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 573599544,
+  "lat": 52.4385895,
+  "lon": 13.3617469,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 585164806,
+  "lat": 52.4396621,
+  "lon": 13.3523628,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 585202977,
+  "lat": 52.5669007,
+  "lon": 13.4426516,
+  "tags": {
+    "leisure": "playground",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 590734500,
+  "lat": 52.4415024,
+  "lon": 13.3851985,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 602457104,
+  "lat": 52.4351855,
+  "lon": 13.3590896,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 617766710,
+  "lat": 52.4777946,
+  "lon": 13.4919492,
+  "tags": {
+    "leisure": "playground",
+    "name": "Waldspielplatz Plänterwald",
+    "operator": "Berliner Forsten",
+    "website": "http://www.stadtentwicklung.berlin.de/forsten/freizeit/waldspielplaetze/de/plaenterwald.shtml"
+  }
+},
+{
+  "type": "node",
+  "id": 634815984,
+  "lat": 52.4599701,
+  "lon": 13.3689880,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 650358482,
+  "lat": 52.4572051,
+  "lon": 13.3787533,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 650584417,
+  "lat": 52.4339260,
+  "lon": 13.4209786,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 652427985,
+  "lat": 52.4188778,
+  "lon": 13.4467576,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 652427986,
+  "lat": 52.4211004,
+  "lon": 13.4623959,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 652427987,
+  "lat": 52.4226246,
+  "lon": 13.4630661,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 652427988,
+  "lat": 52.4234644,
+  "lon": 13.4670515,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 652427989,
+  "lat": 52.4256019,
+  "lon": 13.4681847,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 653233742,
+  "lat": 52.4958594,
+  "lon": 13.3559674,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 654262461,
+  "lat": 52.5000849,
+  "lon": 13.4760625,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 659386302,
+  "lat": 52.5304171,
+  "lon": 13.3955674,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 659386316,
+  "lat": 52.5306075,
+  "lon": 13.3958348,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 661117344,
+  "lat": 52.6058342,
+  "lon": 13.3342296,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 661123172,
+  "lat": 52.6116913,
+  "lon": 13.3235651,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 663316234,
+  "lat": 52.5265201,
+  "lon": 13.4263314,
+  "tags": {
+    "leisure": "playground",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 668662579,
+  "lat": 52.4248899,
+  "lon": 13.4677995,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 671797189,
+  "lat": 52.5114152,
+  "lon": 13.2639977,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 676196846,
+  "lat": 52.5579941,
+  "lon": 13.4205637,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:postcode": "13189",
+    "addr:suburb": "Pankow",
+    "leisure": "playground",
+    "name": "altes Planschbecken"
+  }
+},
+{
+  "type": "node",
+  "id": 678456111,
+  "lat": 52.5961260,
+  "lon": 13.2239007,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 694274218,
+  "lat": 52.5387829,
+  "lon": 13.2853360,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 694274219,
+  "lat": 52.5393005,
+  "lon": 13.2857174,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 700226879,
+  "lat": 52.4249449,
+  "lon": 13.4701209,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 701039972,
+  "lat": 52.4009521,
+  "lon": 13.5026030,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 702372649,
+  "lat": 52.6209310,
+  "lon": 13.4799890,
+  "tags": {
+    "leisure": "playground",
+    "name": "Gewanneweg"
+  }
+},
+{
+  "type": "node",
+  "id": 702374210,
+  "lat": 52.6195515,
+  "lon": 13.4820782,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 712753255,
+  "lat": 52.4935259,
+  "lon": 13.3596128,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 715816177,
+  "lat": 52.4649933,
+  "lon": 13.5281734,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 728904396,
+  "lat": 52.5286926,
+  "lon": 13.5424402,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 747457658,
+  "lat": 52.5830853,
+  "lon": 13.4018899,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 747457689,
+  "lat": 52.5871016,
+  "lon": 13.3974631,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 747557290,
+  "lat": 52.5869713,
+  "lon": 13.4036633,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 766696016,
+  "lat": 52.4249936,
+  "lon": 13.4776470,
+  "tags": {
+    "leisure": "playground",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 771332563,
+  "lat": 52.4960751,
+  "lon": 13.3436307,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 773301184,
+  "lat": 52.5435318,
+  "lon": 13.4512724,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 779037019,
+  "lat": 52.5751069,
+  "lon": 13.3624503,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 801680724,
+  "lat": 52.5731917,
+  "lon": 13.3645506,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 801751867,
+  "lat": 52.5764014,
+  "lon": 13.3491679,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 804680245,
+  "lat": 52.5266544,
+  "lon": 13.5410248,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 817329941,
+  "lat": 52.5202488,
+  "lon": 13.1760850,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 822822363,
+  "lat": 52.5737471,
+  "lon": 13.3618625,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 841582603,
+  "lat": 52.5720200,
+  "lon": 13.4937418,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 845297766,
+  "lat": 52.4928378,
+  "lon": 13.5108515,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 845297778,
+  "lat": 52.4928237,
+  "lon": 13.5145599,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 854443431,
+  "lat": 52.5473631,
+  "lon": 13.3676790,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "13347",
+    "addr:street": "Adolfstraße",
+    "addr:suburb": "Wedding",
+    "leisure": "playground",
+    "name": "Zirkusspielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 857531984,
+  "lat": 52.4238011,
+  "lon": 13.4199285,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 874356018,
+  "lat": 52.5031206,
+  "lon": 13.4132244,
+  "tags": {
+    "leisure": "playground",
+    "name": "KIPA",
+    "note": "so ’ne Art Spielplatz mit Bällen und so"
+  }
+},
+{
+  "type": "node",
+  "id": 890894442,
+  "lat": 52.4892623,
+  "lon": 13.2776898,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 899722388,
+  "lat": 52.4385034,
+  "lon": 13.7214862,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 908179086,
+  "lat": 52.5655057,
+  "lon": 13.3623462,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 966874893,
+  "lat": 52.6233689,
+  "lon": 13.4829667,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 966875265,
+  "lat": 52.6225564,
+  "lon": 13.4837195,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 966876165,
+  "lat": 52.6235882,
+  "lon": 13.4847889,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 966876167,
+  "lat": 52.6240523,
+  "lon": 13.4837930,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 966879805,
+  "lat": 52.6245819,
+  "lon": 13.4822926,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 966880973,
+  "lat": 52.6230741,
+  "lon": 13.4861210,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 966880978,
+  "lat": 52.6225514,
+  "lon": 13.4874030,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 966882837,
+  "lat": 52.6217488,
+  "lon": 13.4825608,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 983586684,
+  "lat": 52.4642636,
+  "lon": 13.4760658,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 984114092,
+  "lat": 52.6204570,
+  "lon": 13.4852840,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 984120137,
+  "lat": 52.6197698,
+  "lon": 13.4870614,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 984544322,
+  "lat": 52.6220092,
+  "lon": 13.4885216,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 984544324,
+  "lat": 52.6210453,
+  "lon": 13.4873960,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 984578817,
+  "lat": 52.6308357,
+  "lon": 13.4918444,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 984579469,
+  "lat": 52.6273485,
+  "lon": 13.4928744,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 992670271,
+  "lat": 52.6194050,
+  "lon": 13.4859090,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1005206422,
+  "lat": 52.6350337,
+  "lon": 13.5007477,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1005212889,
+  "lat": 52.6359516,
+  "lon": 13.5031109,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1008336888,
+  "lat": 52.4172473,
+  "lon": 13.4325417,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1010611439,
+  "lat": 52.4515636,
+  "lon": 13.3111461,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1018628963,
+  "lat": 52.5354766,
+  "lon": 13.4902533,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1032978559,
+  "lat": 52.5356166,
+  "lon": 13.4932364,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1038217544,
+  "lat": 52.5548603,
+  "lon": 13.1642022,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1038217545,
+  "lat": 52.5539209,
+  "lon": 13.1639234,
+  "tags": {
+    "leisure": "playground",
+    "name": "Bauspielplatz",
+    "postal_code": "13589"
+  }
+},
+{
+  "type": "node",
+  "id": 1041694775,
+  "lat": 52.5366593,
+  "lon": 13.4922675,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielplatz Neustrelitzer Str. 8-22"
+  }
+},
+{
+  "type": "node",
+  "id": 1045826181,
+  "lat": 52.4482854,
+  "lon": 13.5694067,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1054886718,
+  "lat": 52.4086095,
+  "lon": 13.2532777,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1059293614,
+  "lat": 52.4125755,
+  "lon": 13.2575070,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1059363961,
+  "lat": 52.4138497,
+  "lon": 13.2563161,
+  "tags": {
+    "access": "permissive",
+    "alt_name": "Wasserspielplatz KBH",
+    "email": "abenteuerspielplatz@contactgmbh.de",
+    "leisure": "playground",
+    "name": "Inklusiver Abenteuerspielplatz (IASP)",
+    "operator": "contact-Jugendhilfe und Bildung gGmbH (KBH)",
+    "phone": "+49 30 84 72 24 70"
+  }
+},
+{
+  "type": "node",
+  "id": 1059733860,
+  "lat": 52.4103674,
+  "lon": 13.2600418,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1064295514,
+  "lat": 52.4107000,
+  "lon": 13.2550367,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1064295535,
+  "lat": 52.4118109,
+  "lon": 13.2600778,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1064295609,
+  "lat": 52.4114343,
+  "lon": 13.2587637,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1073405742,
+  "lat": 52.5355798,
+  "lon": 13.4851565,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1083287533,
+  "lat": 52.4105255,
+  "lon": 13.2609645,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1086725299,
+  "lat": 52.4132697,
+  "lon": 13.2697925,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1092222350,
+  "lat": 52.4977960,
+  "lon": 13.4085121,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1096159661,
+  "lat": 52.4123659,
+  "lon": 13.2566160,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1112645551,
+  "lat": 52.4225599,
+  "lon": 13.2417984,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1118397723,
+  "lat": 52.4889183,
+  "lon": 13.2963081,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1121520432,
+  "lat": 52.5394621,
+  "lon": 13.4867849,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1121520591,
+  "lat": 52.5398916,
+  "lon": 13.4905253,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1142493359,
+  "lat": 52.5213002,
+  "lon": 13.2520952,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1145597646,
+  "lat": 52.5762781,
+  "lon": 13.2769885,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1169918404,
+  "lat": 52.3936949,
+  "lon": 13.4148988,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1180858925,
+  "lat": 52.6125208,
+  "lon": 13.3453095,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1184134378,
+  "lat": 52.5802832,
+  "lon": 13.3766054,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1187881023,
+  "lat": 52.5511330,
+  "lon": 13.3427220,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1187881038,
+  "lat": 52.5508591,
+  "lon": 13.3422445,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1195426382,
+  "lat": 52.4079783,
+  "lon": 13.3566942,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1200981376,
+  "lat": 52.4529033,
+  "lon": 13.2600935,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1202732210,
+  "lat": 52.5242499,
+  "lon": 13.4563466,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1205570282,
+  "lat": 52.5388673,
+  "lon": 13.1756963,
+  "tags": {
+    "access": "private",
+    "leisure": "playground",
+    "name": "Wustermarker Straße"
+  }
+},
+{
+  "type": "node",
+  "id": 1214525741,
+  "lat": 52.6140333,
+  "lon": 13.4881986,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1214525742,
+  "lat": 52.6136295,
+  "lon": 13.4902478,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1214525743,
+  "lat": 52.6143069,
+  "lon": 13.4884883,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1214981277,
+  "lat": 52.5269019,
+  "lon": 13.3652760,
+  "tags": {
+    "description": "Kletterwand",
+    "leisure": "playground",
+    "playground": "climbingwall"
+  }
+},
+{
+  "type": "node",
+  "id": 1216914909,
+  "lat": 52.5305431,
+  "lon": 13.6092822,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1216914912,
+  "lat": 52.5301192,
+  "lon": 13.6088739,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited",
+    "wheelchair:description": "Ist viel Sand darum für Rollstuhlfahrer nicht geeignet außer man möchte zusehen 10 Meter Abstand von der Schaukel"
+  }
+},
+{
+  "type": "node",
+  "id": 1216915007,
+  "lat": 52.5315802,
+  "lon": 13.6133366,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1216915072,
+  "lat": 52.5310261,
+  "lon": 13.6099248,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1217646539,
+  "lat": 52.6235960,
+  "lon": 13.4815179,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1220019281,
+  "lat": 52.4963063,
+  "lon": 13.4449243,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1220019321,
+  "lat": 52.4964662,
+  "lon": 13.4435349,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1220019323,
+  "lat": 52.4960449,
+  "lon": 13.4449460,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1222337746,
+  "lat": 52.5385930,
+  "lon": 13.1942902,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1227688289,
+  "lat": 52.6131489,
+  "lon": 13.3444350,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1227688844,
+  "lat": 52.6137612,
+  "lon": 13.3458136,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1227855122,
+  "lat": 52.5136039,
+  "lon": 13.3023022,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1244905553,
+  "lat": 52.5141626,
+  "lon": 13.4410692,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1247355832,
+  "lat": 52.4472879,
+  "lon": 13.5823685,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground:playhouse": "yes",
+    "playground:sandpit": "yes",
+    "playground:slide": "yes",
+    "playground:teenshelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1247539745,
+  "lat": 52.4324076,
+  "lon": 13.3965966,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1247539874,
+  "lat": 52.4327962,
+  "lon": 13.3940673,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1251071266,
+  "lat": 52.5122214,
+  "lon": 13.4071852,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1256564252,
+  "lat": 52.4658739,
+  "lon": 13.4657612,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1264794639,
+  "lat": 52.4973715,
+  "lon": 13.4949635,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1270212992,
+  "lat": 52.4328254,
+  "lon": 13.4224015,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1270522311,
+  "lat": 52.5405862,
+  "lon": 13.3600377,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1270556931,
+  "lat": 52.5486712,
+  "lon": 13.3415521,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1270801292,
+  "lat": 52.4867638,
+  "lon": 13.2864310,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1280192503,
+  "lat": 52.5524673,
+  "lon": 13.2112781,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1286448409,
+  "lat": 52.4652056,
+  "lon": 13.4665163,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1287432000,
+  "lat": 52.5557710,
+  "lon": 13.3493428,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1289154937,
+  "lat": 52.5373536,
+  "lon": 13.5787690,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1289504974,
+  "lat": 52.4960230,
+  "lon": 13.4264628,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1296278850,
+  "lat": 52.5328967,
+  "lon": 13.4055367,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1324598109,
+  "lat": 52.4817577,
+  "lon": 13.3163843,
+  "tags": {
+    "leisure": "playground",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1332133753,
+  "lat": 52.4729944,
+  "lon": 13.3424932,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1340182793,
+  "lat": 52.4544889,
+  "lon": 13.4432693,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1347997467,
+  "lat": 52.5488111,
+  "lon": 13.4457317,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1349706918,
+  "lat": 52.5112123,
+  "lon": 13.5225985,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1356471158,
+  "lat": 52.4713607,
+  "lon": 13.3463021,
+  "tags": {
+    "description": "Anwohnerspielplatz",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1356471172,
+  "lat": 52.4715390,
+  "lon": 13.3471100,
+  "tags": {
+    "description": "Anwohnerspielplatz",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1357151817,
+  "lat": 52.5343774,
+  "lon": 13.4348561,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1360801701,
+  "lat": 52.5628110,
+  "lon": 13.5629717,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielburg"
+  }
+},
+{
+  "type": "node",
+  "id": 1361502467,
+  "lat": 52.5771382,
+  "lon": 13.3952005,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1361759605,
+  "lat": 52.5565116,
+  "lon": 13.5097674,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1367322607,
+  "lat": 52.5445389,
+  "lon": 13.2418676,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1367322610,
+  "lat": 52.5439508,
+  "lon": 13.2420742,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1367322706,
+  "lat": 52.5441131,
+  "lon": 13.2425825,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1367322778,
+  "lat": 52.5445658,
+  "lon": 13.2430130,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1367322804,
+  "lat": 52.5444964,
+  "lon": 13.2424711,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1367322842,
+  "lat": 52.5442281,
+  "lon": 13.2431028,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1372800767,
+  "lat": 52.4587715,
+  "lon": 13.3500605,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1382509128,
+  "lat": 52.4345200,
+  "lon": 13.2651052,
+  "tags": {
+    "leisure": "playground",
+    "name": "St. Ursula Schulhof",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1382516064,
+  "lat": 52.4400675,
+  "lon": 13.2899805,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1385797623,
+  "lat": 52.4425157,
+  "lon": 13.3073545,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1389926124,
+  "lat": 52.5448461,
+  "lon": 13.2458495,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1389926129,
+  "lat": 52.5452106,
+  "lon": 13.2447662,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1389926133,
+  "lat": 52.5456567,
+  "lon": 13.2466773,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1391111317,
+  "lat": 52.5886938,
+  "lon": 13.3715109,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1394009801,
+  "lat": 52.5462855,
+  "lon": 13.2388910,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1394013227,
+  "lat": 52.5447091,
+  "lon": 13.2405627,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1396422234,
+  "lat": 52.5398326,
+  "lon": 13.2394696,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1397487694,
+  "lat": 52.5411983,
+  "lon": 13.2402579,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1399731800,
+  "lat": 52.5438511,
+  "lon": 13.2577916,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1401627780,
+  "lat": 52.5475155,
+  "lon": 13.2313961,
+  "tags": {
+    "leisure": "playground",
+    "playground": "seesaw"
+  }
+},
+{
+  "type": "node",
+  "id": 1402189961,
+  "lat": 52.5722025,
+  "lon": 13.5698079,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1408651376,
+  "lat": 52.3977873,
+  "lon": 13.5389625,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1409737022,
+  "lat": 52.5420585,
+  "lon": 13.2715186,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1412135727,
+  "lat": 52.5478616,
+  "lon": 13.2644657,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1412157967,
+  "lat": 52.5475680,
+  "lon": 13.2610408,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1412157993,
+  "lat": 52.5477735,
+  "lon": 13.2633848,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1412157994,
+  "lat": 52.5477050,
+  "lon": 13.2621939,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1413044139,
+  "lat": 52.4800435,
+  "lon": 13.4283702,
+  "tags": {
+    "leisure": "playground",
+    "name": "Boddinplatz",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1415785202,
+  "lat": 52.5009342,
+  "lon": 13.5740267,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1417050249,
+  "lat": 52.5442220,
+  "lon": 13.2614971,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1419007974,
+  "lat": 52.5299079,
+  "lon": 13.1809248,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1419007975,
+  "lat": 52.5304601,
+  "lon": 13.1798144,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1427146149,
+  "lat": 52.5158608,
+  "lon": 13.5027846,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1427146152,
+  "lat": 52.5157349,
+  "lon": 13.5045759,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1433730011,
+  "lat": 52.5328142,
+  "lon": 13.3947080,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1435371115,
+  "lat": 52.5022665,
+  "lon": 13.4420247,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1436410601,
+  "lat": 52.5143937,
+  "lon": 13.4799369,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1438198683,
+  "lat": 52.4791260,
+  "lon": 13.3206371,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1457107228,
+  "lat": 52.5040476,
+  "lon": 13.3922746,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1464502746,
+  "lat": 52.4958087,
+  "lon": 13.5022747,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1469238068,
+  "lat": 52.5001177,
+  "lon": 13.4980613,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1471024619,
+  "lat": 52.5428658,
+  "lon": 13.5468340,
+  "tags": {
+    "leisure": "playground",
+    "name": "sandspielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 1471024624,
+  "lat": 52.5433437,
+  "lon": 13.5470260,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1474024957,
+  "lat": 52.4515789,
+  "lon": 13.3364212,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1476399655,
+  "lat": 52.5860926,
+  "lon": 13.3035729,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1477769770,
+  "lat": 52.5098821,
+  "lon": 13.5129706,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1484074928,
+  "lat": 52.5456815,
+  "lon": 13.3382371,
+  "tags": {
+    "leisure": "playground",
+    "name": "Rodelbahn"
+  }
+},
+{
+  "type": "node",
+  "id": 1490221590,
+  "lat": 52.5148712,
+  "lon": 13.1699100,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1503433000,
+  "lat": 52.4620136,
+  "lon": 13.4299034,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1506613246,
+  "lat": 52.6319928,
+  "lon": 13.4968421,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1508411499,
+  "lat": 52.4986964,
+  "lon": 13.3391577,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1508583185,
+  "lat": 52.4421912,
+  "lon": 13.5023129,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1509965510,
+  "lat": 52.5109272,
+  "lon": 13.5111140,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1509995608,
+  "lat": 52.6269749,
+  "lon": 13.4947265,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1509995615,
+  "lat": 52.6266233,
+  "lon": 13.4976232,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1523217300,
+  "lat": 52.4889008,
+  "lon": 13.5173791,
+  "tags": {
+    "access": "private",
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1533785050,
+  "lat": 52.5284063,
+  "lon": 13.5447035,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1533785061,
+  "lat": 52.5301545,
+  "lon": 13.5446541,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1533785096,
+  "lat": 52.5305130,
+  "lon": 13.5408637,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1534148113,
+  "lat": 52.5317749,
+  "lon": 13.5449882,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1534148160,
+  "lat": 52.5324496,
+  "lon": 13.5449525,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1534148195,
+  "lat": 52.5326980,
+  "lon": 13.5455372,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1534640584,
+  "lat": 52.5281689,
+  "lon": 13.5404776,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1547251948,
+  "lat": 52.5033065,
+  "lon": 13.4960721,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1572836471,
+  "lat": 52.4145296,
+  "lon": 13.3750314,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1572836475,
+  "lat": 52.4153265,
+  "lon": 13.3732401,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1579881884,
+  "lat": 52.5247989,
+  "lon": 13.4811648,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1589510127,
+  "lat": 52.4520970,
+  "lon": 13.3920634,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1613523896,
+  "lat": 52.4209768,
+  "lon": 13.3637249,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1627255999,
+  "lat": 52.4462633,
+  "lon": 13.5391231,
+  "tags": {
+    "leisure": "playground",
+    "name": "Kleiner Rodelberg"
+  }
+},
+{
+  "type": "node",
+  "id": 1675579218,
+  "lat": 52.4305563,
+  "lon": 13.3623385,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1681550991,
+  "lat": 52.4574479,
+  "lon": 13.5187553,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1681574212,
+  "lat": 52.5372727,
+  "lon": 13.4658935,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1687517109,
+  "lat": 52.4385769,
+  "lon": 13.2673081,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1691637071,
+  "lat": 52.4833761,
+  "lon": 13.4664712,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielplatz Karpfenteichstraße",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1703464229,
+  "lat": 52.5702668,
+  "lon": 13.5047245,
+  "tags": {
+    "image": "http://i.imgur.com/Akyp9l.jpg",
+    "leisure": "playground",
+    "source": "Garmin Oregon 550"
+  }
+},
+{
+  "type": "node",
+  "id": 1719037029,
+  "lat": 52.5545982,
+  "lon": 13.5597710,
+  "tags": {
+    "image": "http://i.imgur.com/CWW0Wl.jpg",
+    "leisure": "playground",
+    "source": "Garmin Oregon 550"
+  }
+},
+{
+  "type": "node",
+  "id": 1719037101,
+  "lat": 52.5541735,
+  "lon": 13.5595420,
+  "tags": {
+    "image": "http://i.imgur.com/ujyUul.jpg",
+    "leisure": "playground",
+    "source": "Garmin Oregon 550"
+  }
+},
+{
+  "type": "node",
+  "id": 1724463933,
+  "lat": 52.6126577,
+  "lon": 13.4924163,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1731628942,
+  "lat": 52.6027277,
+  "lon": 13.2396389,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1731633819,
+  "lat": 52.5590799,
+  "lon": 13.5640822,
+  "tags": {
+    "description": "Allgemeiner Spielplatz",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1731676707,
+  "lat": 52.5547048,
+  "lon": 13.3732452,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1731990297,
+  "lat": 52.5241268,
+  "lon": 13.5417609,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1732017629,
+  "lat": 52.5309217,
+  "lon": 13.5401488,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1737225821,
+  "lat": 52.5702051,
+  "lon": 13.5700056,
+  "tags": {
+    "image": "http://i.imgur.com/2UQ0Ml.jpg",
+    "leisure": "playground",
+    "source": "Garmin Oregon 550"
+  }
+},
+{
+  "type": "node",
+  "id": 1746667622,
+  "lat": 52.4139412,
+  "lon": 13.6645435,
+  "tags": {
+    "leisure": "playground",
+    "source": "GDAL 1.8.1"
+  }
+},
+{
+  "type": "node",
+  "id": 1757025319,
+  "lat": 52.5527757,
+  "lon": 13.3385042,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1762950875,
+  "lat": 52.5153195,
+  "lon": 13.4465543,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1766094442,
+  "lat": 52.5495554,
+  "lon": 13.4782542,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1768038924,
+  "lat": 52.5488258,
+  "lon": 13.4425997,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1770040485,
+  "lat": 52.6061647,
+  "lon": 13.3610445,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1770627901,
+  "lat": 52.4523492,
+  "lon": 13.5727738,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1773642934,
+  "lat": 52.5279952,
+  "lon": 13.3980193,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1773961567,
+  "lat": 52.5958467,
+  "lon": 13.3592345,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1775022597,
+  "lat": 52.6210556,
+  "lon": 13.2339307,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1777158333,
+  "lat": 52.5705026,
+  "lon": 13.5637213,
+  "tags": {
+    "image": "http://i.imgur.com/I7l1Ml.jpg",
+    "leisure": "playground",
+    "source": "Garmin Oregon 550",
+    "toilets:wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1777159357,
+  "lat": 52.5707557,
+  "lon": 13.5631010,
+  "tags": {
+    "image": "http://i.imgur.com/B9G5Cl.jpg",
+    "leisure": "playground",
+    "source": "Garmin Oregon 550"
+  }
+},
+{
+  "type": "node",
+  "id": 1777959932,
+  "lat": 52.5377811,
+  "lon": 13.5856628,
+  "tags": {
+    "access": "yes",
+    "addr:street": "Suhler Straße",
+    "leisure": "playground",
+    "source": "GDAL 1.8.1"
+  }
+},
+{
+  "type": "node",
+  "id": 1777960535,
+  "lat": 52.5694738,
+  "lon": 13.5617745,
+  "tags": {
+    "leisure": "playground",
+    "source": "GDAL 1.8.1"
+  }
+},
+{
+  "type": "node",
+  "id": 1777961284,
+  "lat": 52.5682675,
+  "lon": 13.5492669,
+  "tags": {
+    "addr:street": "Dessauer Straße",
+    "leisure": "playground",
+    "source": "GDAL 1.8.1",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1777968241,
+  "lat": 52.5487013,
+  "lon": 13.5610859,
+  "tags": {
+    "leisure": "playground",
+    "source": "GDAL 1.8.1"
+  }
+},
+{
+  "type": "node",
+  "id": 1777971174,
+  "lat": 52.5321300,
+  "lon": 13.5419812,
+  "tags": {
+    "leisure": "playground",
+    "source": "GDAL 1.8.1"
+  }
+},
+{
+  "type": "node",
+  "id": 1779043947,
+  "lat": 52.5435889,
+  "lon": 13.3794796,
+  "tags": {
+    "leisure": "playground",
+    "source": "GDAL 1.8.1"
+  }
+},
+{
+  "type": "node",
+  "id": 1782302622,
+  "lat": 52.5354237,
+  "lon": 13.4404979,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1783040024,
+  "lat": 52.4507723,
+  "lon": 13.3091640,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1785639962,
+  "lat": 52.4658674,
+  "lon": 13.5978692,
+  "tags": {
+    "leisure": "playground",
+    "name": "Waldspielplatz Däumlingsweg",
+    "operator": "Berliner Forsten",
+    "website": "http://www.stadtentwicklung.berlin.de/forsten/freizeit/waldspielplaetze/de/daeumlingsweg.shtml",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1797513163,
+  "lat": 52.4689667,
+  "lon": 13.5226031,
+  "tags": {
+    "leisure": "playground",
+    "name": "Historischer Kinderspiel und Turnplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 1830502277,
+  "lat": 52.5853783,
+  "lon": 13.2833635,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1830502307,
+  "lat": 52.5855926,
+  "lon": 13.2861438,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1836347891,
+  "lat": 52.5153909,
+  "lon": 13.4392385,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1845061518,
+  "lat": 52.5609835,
+  "lon": 13.3949125,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1848175380,
+  "lat": 52.5630227,
+  "lon": 13.3924930,
+  "tags": {
+    "leisure": "playground",
+    "toilets:wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1849749458,
+  "lat": 52.5677223,
+  "lon": 13.3979292,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1853277636,
+  "lat": 52.4601280,
+  "lon": 13.3499336,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1853277653,
+  "lat": 52.4606706,
+  "lon": 13.3497190,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1855197274,
+  "lat": 52.5164116,
+  "lon": 13.4624239,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1860572344,
+  "lat": 52.5479929,
+  "lon": 13.4580192,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1862829202,
+  "lat": 52.6055460,
+  "lon": 13.4247412,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1863556827,
+  "lat": 52.5335073,
+  "lon": 13.4329719,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1863556847,
+  "lat": 52.5301723,
+  "lon": 13.4352732,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1874222536,
+  "lat": 52.5171146,
+  "lon": 13.2801159,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1881054375,
+  "lat": 52.5398860,
+  "lon": 13.4086310,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielplatz Hirschhof",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1882969580,
+  "lat": 52.5369170,
+  "lon": 13.4053177,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1888655264,
+  "lat": 52.4941082,
+  "lon": 13.3005620,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1904194278,
+  "lat": 52.5271458,
+  "lon": 13.4036508,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "59",
+    "addr:postcode": "10119",
+    "addr:street": "Rosenthaler Straße",
+    "addr:suburb": "Mitte",
+    "leisure": "playground",
+    "name": "ASP Stadt der Kinder",
+    "source:addr": "Geoportal Berlin / Hauskoordinaten",
+    "wheelchair": "yes",
+    "wheelchair:description": "Sand Boden"
+  }
+},
+{
+  "type": "node",
+  "id": 1904540845,
+  "lat": 52.5458056,
+  "lon": 13.4770619,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1907149897,
+  "lat": 52.5334180,
+  "lon": 13.3971170,
+  "tags": {
+    "created_by": "iLOE 1.9",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1937460262,
+  "lat": 52.5526220,
+  "lon": 13.1676754,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 1978653631,
+  "lat": 52.4414131,
+  "lon": 13.5472768,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2008623772,
+  "lat": 52.5447589,
+  "lon": 13.3962482,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2008716702,
+  "lat": 52.5308973,
+  "lon": 13.4209526,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2008716703,
+  "lat": 52.5306852,
+  "lon": 13.4219450,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2019486912,
+  "lat": 52.5523177,
+  "lon": 13.5660636,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2031432302,
+  "lat": 52.4840367,
+  "lon": 13.3749126,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2031432306,
+  "lat": 52.4840848,
+  "lon": 13.3760400,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2032185678,
+  "lat": 52.4245343,
+  "lon": 13.4807410,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2032185730,
+  "lat": 52.4246773,
+  "lon": 13.4832492,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2045223683,
+  "lat": 52.4235866,
+  "lon": 13.4788978,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2050196095,
+  "lat": 52.4198638,
+  "lon": 13.4908169,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2052974715,
+  "lat": 52.4172533,
+  "lon": 13.5105200,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2052974736,
+  "lat": 52.4185611,
+  "lon": 13.5003363,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2074394142,
+  "lat": 52.4233525,
+  "lon": 13.4815916,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2088389618,
+  "lat": 52.4047605,
+  "lon": 13.5303388,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2090041505,
+  "lat": 52.4283064,
+  "lon": 13.4627528,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2091480495,
+  "lat": 52.5605625,
+  "lon": 13.4465112,
+  "tags": {
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2091489553,
+  "lat": 52.5609633,
+  "lon": 13.4472184,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2091489555,
+  "lat": 52.5611612,
+  "lon": 13.4454200,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2091489558,
+  "lat": 52.5615916,
+  "lon": 13.4430220,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2109552890,
+  "lat": 52.5578819,
+  "lon": 13.4435633,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2120277398,
+  "lat": 52.5188281,
+  "lon": 13.5935454,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:postcode": "12619",
+    "addr:suburb": "Kaulsdorf",
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2133059410,
+  "lat": 52.5399528,
+  "lon": 13.4896944,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2159889398,
+  "lat": 52.5045163,
+  "lon": 13.4939347,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2265820009,
+  "lat": 52.5304128,
+  "lon": 13.4148097,
+  "tags": {
+    "leisure": "playground",
+    "name": "Radiergummispielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 2285091539,
+  "lat": 52.4530119,
+  "lon": 13.3741501,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2285091603,
+  "lat": 52.4531950,
+  "lon": 13.3737946,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2287046201,
+  "lat": 52.4683563,
+  "lon": 13.5073941,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2304772625,
+  "lat": 52.4972754,
+  "lon": 13.3714929,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2304772628,
+  "lat": 52.4982975,
+  "lon": 13.3709672,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2319706912,
+  "lat": 52.4349037,
+  "lon": 13.2771922,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2319706914,
+  "lat": 52.4357454,
+  "lon": 13.2763520,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2333230671,
+  "lat": 52.5031418,
+  "lon": 13.3705809,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2360613300,
+  "lat": 52.4969026,
+  "lon": 13.4352664,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2363347413,
+  "lat": 52.5833648,
+  "lon": 13.4049600,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2374526230,
+  "lat": 52.4537549,
+  "lon": 13.5815889,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2374598867,
+  "lat": 52.4942145,
+  "lon": 13.3786198,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2375950696,
+  "lat": 52.4277424,
+  "lon": 13.4291743,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2375950722,
+  "lat": 52.4277882,
+  "lon": 13.4295176,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2376408426,
+  "lat": 52.5755427,
+  "lon": 13.4145798,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2377331650,
+  "lat": 52.4391546,
+  "lon": 13.5552701,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2377331652,
+  "lat": 52.4387491,
+  "lon": 13.5578397,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2390660480,
+  "lat": 52.4326318,
+  "lon": 13.3581686,
+  "tags": {
+    "leisure": "playground",
+    "name": "sand-box"
+  }
+},
+{
+  "type": "node",
+  "id": 2394142526,
+  "lat": 52.4531932,
+  "lon": 13.2814029,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2394280333,
+  "lat": 52.4310654,
+  "lon": 13.4185442,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2394280358,
+  "lat": 52.4337130,
+  "lon": 13.4120260,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2394280419,
+  "lat": 52.4309162,
+  "lon": 13.4180753,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2394358645,
+  "lat": 52.4339681,
+  "lon": 13.4220845,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2399721176,
+  "lat": 52.4326484,
+  "lon": 13.4159596,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2399721177,
+  "lat": 52.4292795,
+  "lon": 13.4213615,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2399755129,
+  "lat": 52.4357568,
+  "lon": 13.1778990,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2402138924,
+  "lat": 52.4195767,
+  "lon": 13.3698615,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2402229820,
+  "lat": 52.5808358,
+  "lon": 13.3190230,
+  "tags": {
+    "access": "private",
+    "leisure": "playground",
+    "name": "Spielplatz der Wohnanlage am Windhalmweg"
+  }
+},
+{
+  "type": "node",
+  "id": 2429294673,
+  "lat": 52.5565168,
+  "lon": 13.4311830,
+  "tags": {
+    "leisure": "playground",
+    "playground": "climbingframe"
+  }
+},
+{
+  "type": "node",
+  "id": 2431326720,
+  "lat": 52.5653617,
+  "lon": 13.4376843,
+  "tags": {
+    "leisure": "playground",
+    "playground": "climbingframe"
+  }
+},
+{
+  "type": "node",
+  "id": 2432727153,
+  "lat": 52.5895385,
+  "lon": 13.3001231,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2440120734,
+  "lat": 52.6093618,
+  "lon": 13.4171934,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2458399611,
+  "lat": 52.6045887,
+  "lon": 13.4196357,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2459018145,
+  "lat": 52.6100167,
+  "lon": 13.4179886,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2459018182,
+  "lat": 52.6106238,
+  "lon": 13.4187428,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2459097526,
+  "lat": 52.6112986,
+  "lon": 13.4195141,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2462075727,
+  "lat": 52.6134320,
+  "lon": 13.4254185,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2462075728,
+  "lat": 52.6138652,
+  "lon": 13.4245646,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2464217849,
+  "lat": 52.6106267,
+  "lon": 13.4295934,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2464217911,
+  "lat": 52.6128336,
+  "lon": 13.4297489,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2468915225,
+  "lat": 52.5049414,
+  "lon": 13.4039735,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2468915226,
+  "lat": 52.5049771,
+  "lon": 13.4006160,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2468915227,
+  "lat": 52.5051482,
+  "lon": 13.4032044,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2468915228,
+  "lat": 52.5053907,
+  "lon": 13.4022562,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2469854979,
+  "lat": 52.5004780,
+  "lon": 13.3997811,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2469854982,
+  "lat": 52.5008300,
+  "lon": 13.3990583,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2469854989,
+  "lat": 52.5012700,
+  "lon": 13.3992627,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2469854990,
+  "lat": 52.5013337,
+  "lon": 13.4002896,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2469855040,
+  "lat": 52.5038522,
+  "lon": 13.4035546,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2469855050,
+  "lat": 52.5042436,
+  "lon": 13.4021887,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2481751818,
+  "lat": 52.5007231,
+  "lon": 13.3663911,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2493770714,
+  "lat": 52.5665164,
+  "lon": 13.2954360,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2496464225,
+  "lat": 52.4332145,
+  "lon": 13.3586190,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2496464228,
+  "lat": 52.4320600,
+  "lon": 13.3579297,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2513576754,
+  "lat": 52.5354272,
+  "lon": 13.4820897,
+  "tags": {
+    "leisure": "playground",
+    "name": "Die Erbse",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2514738518,
+  "lat": 52.5291878,
+  "lon": 13.5968433,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2514738530,
+  "lat": 52.5294893,
+  "lon": 13.5969483,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2524044638,
+  "lat": 52.5271394,
+  "lon": 13.5942603,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2524044668,
+  "lat": 52.5282164,
+  "lon": 13.5940488,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2525388470,
+  "lat": 52.5401232,
+  "lon": 13.4352708,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2541138497,
+  "lat": 52.5376650,
+  "lon": 13.5789118,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2581028510,
+  "lat": 52.4684321,
+  "lon": 13.3207380,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2581046821,
+  "lat": 52.4698086,
+  "lon": 13.3267366,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2587373472,
+  "lat": 52.5603626,
+  "lon": 13.4534221,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2587373473,
+  "lat": 52.5605583,
+  "lon": 13.4528776,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2587373474,
+  "lat": 52.5610409,
+  "lon": 13.4545674,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2607817775,
+  "lat": 52.5789410,
+  "lon": 13.4144800,
+  "tags": {
+    "description": "Spielplatz für alle Altersstufen (mit Fußballplatz)",
+    "leisure": "playground",
+    "source": "knowledge",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2617117331,
+  "lat": 52.4278022,
+  "lon": 13.2633315,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2627200319,
+  "lat": 52.5809093,
+  "lon": 13.3009062,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2637167639,
+  "lat": 52.5932539,
+  "lon": 13.4489242,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2637167640,
+  "lat": 52.5935114,
+  "lon": 13.4493091,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2638359484,
+  "lat": 52.4087040,
+  "lon": 13.3046314,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2638359485,
+  "lat": 52.4085469,
+  "lon": 13.3057043,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2640206856,
+  "lat": 52.4092630,
+  "lon": 13.3033451,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2694561591,
+  "lat": 52.5201171,
+  "lon": 13.4268702,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2696783348,
+  "lat": 52.5706910,
+  "lon": 13.2306512,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2731774497,
+  "lat": 52.4896653,
+  "lon": 13.3733451,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2741612286,
+  "lat": 52.4630692,
+  "lon": 13.4912452,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2753438662,
+  "lat": 52.4342500,
+  "lon": 13.4221440,
+  "tags": {
+    "description": "Affenschaukel",
+    "leisure": "playground",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 2754044008,
+  "lat": 52.5646352,
+  "lon": 13.3868290,
+  "tags": {
+    "leisure": "playground",
+    "source": "Geoportal Berlin / K5"
+  }
+},
+{
+  "type": "node",
+  "id": 2754778160,
+  "lat": 52.4145860,
+  "lon": 13.3602266,
+  "tags": {
+    "leisure": "playground",
+    "playground": "climbingframe"
+  }
+},
+{
+  "type": "node",
+  "id": 2754778172,
+  "lat": 52.4143379,
+  "lon": 13.3607605,
+  "tags": {
+    "leisure": "playground",
+    "playground": "sandpit"
+  }
+},
+{
+  "type": "node",
+  "id": 2756088696,
+  "lat": 52.4283266,
+  "lon": 13.4272453,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2763718624,
+  "lat": 52.5328670,
+  "lon": 13.4344870,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2774970018,
+  "lat": 52.5188438,
+  "lon": 13.4353487,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2782835418,
+  "lat": 52.6232343,
+  "lon": 13.3192970,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2808646353,
+  "lat": 52.5380160,
+  "lon": 13.5666205,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2824756834,
+  "lat": 52.4994319,
+  "lon": 13.4240435,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2826600841,
+  "lat": 52.5303812,
+  "lon": 13.4298231,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2838612285,
+  "lat": 52.5143527,
+  "lon": 13.4637289,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2849567103,
+  "lat": 52.6001380,
+  "lon": 13.3579843,
+  "tags": {
+    "leisure": "playground",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 2852466794,
+  "lat": 52.5129807,
+  "lon": 13.4655072,
+  "tags": {
+    "access": "private",
+    "description": "Spielplatz der Kita Scharnweberstraße",
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2860757864,
+  "lat": 52.5014263,
+  "lon": 13.6225495,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2867461881,
+  "lat": 52.4210614,
+  "lon": 13.4358150,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2868283002,
+  "lat": 52.5685747,
+  "lon": 13.2026748,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2869107167,
+  "lat": 52.4140313,
+  "lon": 13.4236413,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2869107169,
+  "lat": 52.4147249,
+  "lon": 13.4235005,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2870917194,
+  "lat": 52.4631636,
+  "lon": 13.5215362,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2870917200,
+  "lat": 52.4634187,
+  "lon": 13.5189562,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2876974201,
+  "lat": 52.4363433,
+  "lon": 13.2724311,
+  "tags": {
+    "leisure": "playground",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 2881222629,
+  "lat": 52.5426731,
+  "lon": 13.2305322,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "13599",
+    "addr:street": "Goldbeckweg",
+    "addr:suburb": "Haselhorst",
+    "leisure": "playground",
+    "name": "Spielhaus Goldbeckweg",
+    "source": "Geoportal Berlin / Hauskoordinaten"
+  }
+},
+{
+  "type": "node",
+  "id": 2882563080,
+  "lat": 52.4821182,
+  "lon": 13.3527957,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2882563083,
+  "lat": 52.4812062,
+  "lon": 13.3513226,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2882563084,
+  "lat": 52.4807827,
+  "lon": 13.3521447,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2883115636,
+  "lat": 52.4817243,
+  "lon": 13.3523549,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2888572205,
+  "lat": 52.5437731,
+  "lon": 13.2061783,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2888629202,
+  "lat": 52.5446363,
+  "lon": 13.2063872,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2892541689,
+  "lat": 52.5384433,
+  "lon": 13.1797243,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2895550271,
+  "lat": 52.5246732,
+  "lon": 13.1702801,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2895596013,
+  "lat": 52.5256680,
+  "lon": 13.1838953,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2895596344,
+  "lat": 52.5258073,
+  "lon": 13.1840750,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2896973449,
+  "lat": 52.5360921,
+  "lon": 13.1473424,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2896976814,
+  "lat": 52.5364075,
+  "lon": 13.1473837,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2898022084,
+  "lat": 52.5140596,
+  "lon": 13.4261311,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2898373771,
+  "lat": 52.4223102,
+  "lon": 13.4043613,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2898374913,
+  "lat": 52.4211095,
+  "lon": 13.4046671,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2898374945,
+  "lat": 52.4214467,
+  "lon": 13.4025475,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2898377230,
+  "lat": 52.4229306,
+  "lon": 13.4051451,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2899045010,
+  "lat": 52.4220698,
+  "lon": 13.4041956,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2899168404,
+  "lat": 52.4217899,
+  "lon": 13.4063095,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2899168406,
+  "lat": 52.4218243,
+  "lon": 13.4083498,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2899168802,
+  "lat": 52.4217062,
+  "lon": 13.4093935,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2899178301,
+  "lat": 52.4229142,
+  "lon": 13.4033153,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2899182603,
+  "lat": 52.4225132,
+  "lon": 13.4075157,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2899182802,
+  "lat": 52.4222930,
+  "lon": 13.4095954,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2900110914,
+  "lat": 52.5201130,
+  "lon": 13.1936212,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2900112015,
+  "lat": 52.5204990,
+  "lon": 13.1920080,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2901140247,
+  "lat": 52.5197656,
+  "lon": 13.2007879,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2901140249,
+  "lat": 52.5197687,
+  "lon": 13.2005630,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2901141246,
+  "lat": 52.5201848,
+  "lon": 13.1992235,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2901141447,
+  "lat": 52.5203088,
+  "lon": 13.1992225,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2901182201,
+  "lat": 52.5203287,
+  "lon": 13.2006768,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2901962403,
+  "lat": 52.5326664,
+  "lon": 13.4588243,
+  "tags": {
+    "leisure": "playground",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 2902760536,
+  "lat": 52.5176201,
+  "lon": 13.1888106,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2913828038,
+  "lat": 52.5718475,
+  "lon": 13.4630077,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2913828045,
+  "lat": 52.5720479,
+  "lon": 13.4627593,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2914924036,
+  "lat": 52.4623052,
+  "lon": 13.5791763,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2917958404,
+  "lat": 52.5790706,
+  "lon": 13.4812195,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2927094938,
+  "lat": 52.5554850,
+  "lon": 13.4552326,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2936830901,
+  "lat": 52.5250890,
+  "lon": 13.5077870,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2948733447,
+  "lat": 52.5768756,
+  "lon": 13.2265910,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2950098785,
+  "lat": 52.5117004,
+  "lon": 13.4046254,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2953572536,
+  "lat": 52.5712022,
+  "lon": 13.3697592,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2960570641,
+  "lat": 52.6156729,
+  "lon": 13.4240465,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2963926340,
+  "lat": 52.4820179,
+  "lon": 13.3537218,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2969819230,
+  "lat": 52.5578793,
+  "lon": 13.2059366,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 2975540217,
+  "lat": 52.4813466,
+  "lon": 13.5294571,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2980122242,
+  "lat": 52.5183924,
+  "lon": 13.1919372,
+  "tags": {
+    "leisure": "playground",
+    "name": "Freizeitsportanlage Südpark"
+  }
+},
+{
+  "type": "node",
+  "id": 3021558153,
+  "lat": 52.4894207,
+  "lon": 13.3000721,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3075422537,
+  "lat": 52.5674765,
+  "lon": 13.4989451,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3075426745,
+  "lat": 52.5681808,
+  "lon": 13.4971829,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3079319690,
+  "lat": 52.6306123,
+  "lon": 13.4944305,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3079319698,
+  "lat": 52.6303656,
+  "lon": 13.4953137,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3089542094,
+  "lat": 52.4668145,
+  "lon": 13.3609381,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3091294076,
+  "lat": 52.5423192,
+  "lon": 13.4041529,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3091294077,
+  "lat": 52.5426217,
+  "lon": 13.4039321,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3091294078,
+  "lat": 52.5427110,
+  "lon": 13.4039005,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3091294079,
+  "lat": 52.5429302,
+  "lon": 13.4038240,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3102540967,
+  "lat": 52.4923903,
+  "lon": 13.3855185,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3102540979,
+  "lat": 52.4940297,
+  "lon": 13.3751469,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3116890759,
+  "lat": 52.5593289,
+  "lon": 13.4633883,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3123738832,
+  "lat": 52.5404519,
+  "lon": 13.3586047,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3123738851,
+  "lat": 52.5407081,
+  "lon": 13.3599197,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3123738910,
+  "lat": 52.5416375,
+  "lon": 13.3589187,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3123738928,
+  "lat": 52.5419556,
+  "lon": 13.3587403,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3133050331,
+  "lat": 52.4186143,
+  "lon": 13.4108990,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3133050332,
+  "lat": 52.4188720,
+  "lon": 13.4106515,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3149851086,
+  "lat": 52.6103198,
+  "lon": 13.4834628,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3149851103,
+  "lat": 52.6106406,
+  "lon": 13.4836452,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3149851112,
+  "lat": 52.6102042,
+  "lon": 13.4803112,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3153547625,
+  "lat": 52.5860772,
+  "lon": 13.3282889,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3166392460,
+  "lat": 52.4926061,
+  "lon": 13.3756925,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3169517445,
+  "lat": 52.4776497,
+  "lon": 13.4356542,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3178032161,
+  "lat": 52.4645020,
+  "lon": 13.4205940,
+  "tags": {
+    "leisure": "playground",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 3180634745,
+  "lat": 52.5048615,
+  "lon": 13.3166793,
+  "tags": {
+    "leisure": "playground",
+    "name": "Kita Schlüterstraße 25"
+  }
+},
+{
+  "type": "node",
+  "id": 3193915412,
+  "lat": 52.5710600,
+  "lon": 13.4067477,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3193927439,
+  "lat": 52.5715931,
+  "lon": 13.4063168,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3235964684,
+  "lat": 52.4757123,
+  "lon": 13.4327774,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3253698661,
+  "lat": 52.5473812,
+  "lon": 13.4219663,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3259746601,
+  "lat": 52.4775034,
+  "lon": 13.4811558,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3290672034,
+  "lat": 52.4920606,
+  "lon": 13.2385091,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3290672058,
+  "lat": 52.4922253,
+  "lon": 13.2379956,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3300146321,
+  "lat": 52.6141838,
+  "lon": 13.4951663,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3303485117,
+  "lat": 52.5309465,
+  "lon": 13.3523365,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3310674000,
+  "lat": 52.5606524,
+  "lon": 13.4211368,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:postcode": "13189",
+    "addr:suburb": "Pankow",
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3310730261,
+  "lat": 52.5799850,
+  "lon": 13.4211272,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:postcode": "13187",
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3319745166,
+  "lat": 52.5619640,
+  "lon": 13.4288797,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3332243448,
+  "lat": 52.5771159,
+  "lon": 13.2826410,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3350321894,
+  "lat": 52.4350748,
+  "lon": 13.4585707,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3356951882,
+  "lat": 52.6050813,
+  "lon": 13.4210024,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3375657922,
+  "lat": 52.5773981,
+  "lon": 13.2877348,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3380966293,
+  "lat": 52.6057189,
+  "lon": 13.4281641,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3389744523,
+  "lat": 52.5008837,
+  "lon": 13.3964015,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3397223793,
+  "lat": 52.4056134,
+  "lon": 13.5067510,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "12355",
+    "addr:street": "Elfriede-Kuhr-Straße",
+    "addr:suburb": "Rudow",
+    "leisure": "playground",
+    "name": "Robin Hood Spielplatz",
+    "website": "http://www.berlin.de/ba-neukoelln/verwaltung/spielplatzfuehrer.html",
+    "wheelchair": "limited",
+    "wheelchair:description": "Spieldorf mit rollstuhl- gerechten Laufstegen"
+  }
+},
+{
+  "type": "node",
+  "id": 3399663913,
+  "lat": 52.5202089,
+  "lon": 13.4648356,
+  "tags": {
+    "access": "private",
+    "barrier": "fence",
+    "leisure": "playground",
+    "operator": "Klax Kita",
+    "operator_type": "private_non_profit"
+  }
+},
+{
+  "type": "node",
+  "id": 3404933975,
+  "lat": 52.4552701,
+  "lon": 13.3879319,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "1-3",
+    "addr:postcode": "12099",
+    "addr:street": "Ordensmeisterstraße",
+    "addr:suburb": "Tempelhof",
+    "email": "kontakt@dockx-berlin.de",
+    "leisure": "playground",
+    "name": "DockX",
+    "opening_hours": "Mo-Th 14:00-22:00; Fr 14:00-24:00; Sa 10:00-24:00; Su 10:00-20:15",
+    "phone": "+493072012228",
+    "website": "http://dockx-berlin.de"
+  }
+},
+{
+  "type": "node",
+  "id": 3411068726,
+  "lat": 52.5013728,
+  "lon": 13.3878279,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3428090870,
+  "lat": 52.4324439,
+  "lon": 13.2604822,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3428765660,
+  "lat": 52.5133105,
+  "lon": 13.4082815,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3435318085,
+  "lat": 52.5202178,
+  "lon": 13.4276100,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3439378293,
+  "lat": 52.5257449,
+  "lon": 13.5870499,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3457228603,
+  "lat": 52.5197470,
+  "lon": 13.4471386,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3461296707,
+  "lat": 52.5095261,
+  "lon": 13.4183546,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3510205693,
+  "lat": 52.5133915,
+  "lon": 13.4261161,
+  "tags": {
+    "leisure": "playground",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 3510222694,
+  "lat": 52.5123100,
+  "lon": 13.4373520,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "source": "Dakota 20"
+  }
+},
+{
+  "type": "node",
+  "id": 3593105706,
+  "lat": 52.5044734,
+  "lon": 13.4882568,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3666633587,
+  "lat": 52.4979570,
+  "lon": 13.3429350,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3701370553,
+  "lat": 52.6013243,
+  "lon": 13.3553138,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3714020438,
+  "lat": 52.4942161,
+  "lon": 13.3052223,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3721960081,
+  "lat": 52.4623481,
+  "lon": 13.4715512,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3722092463,
+  "lat": 52.5771837,
+  "lon": 13.2919118,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3722092483,
+  "lat": 52.5778556,
+  "lon": 13.2868478,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3722092484,
+  "lat": 52.5782731,
+  "lon": 13.2846728,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3722113442,
+  "lat": 52.5781222,
+  "lon": 13.2862518,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3754700637,
+  "lat": 52.5911382,
+  "lon": 13.2792961,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3755056313,
+  "lat": 52.4524168,
+  "lon": 13.3871133,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3765192099,
+  "lat": 52.4961265,
+  "lon": 13.3813953,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3765192100,
+  "lat": 52.4963146,
+  "lon": 13.3814133,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3770965636,
+  "lat": 52.5089590,
+  "lon": 13.5032132,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3781917531,
+  "lat": 52.4642368,
+  "lon": 13.5154293,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3792715363,
+  "lat": 52.4937294,
+  "lon": 13.6073409,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3792715379,
+  "lat": 52.4941242,
+  "lon": 13.6081639,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3799641876,
+  "lat": 52.4610178,
+  "lon": 13.5471204,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3823253554,
+  "lat": 52.4662014,
+  "lon": 13.4726418,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3843051260,
+  "lat": 52.5499698,
+  "lon": 13.5575922,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3873210882,
+  "lat": 52.5583652,
+  "lon": 13.4255102,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3874539940,
+  "lat": 52.4923959,
+  "lon": 13.4413749,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3881897124,
+  "lat": 52.4549885,
+  "lon": 13.5198701,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3882198350,
+  "lat": 52.4551116,
+  "lon": 13.5200371,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3882758345,
+  "lat": 52.5666056,
+  "lon": 13.2132241,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3900961210,
+  "lat": 52.5492771,
+  "lon": 13.5495895,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3921887889,
+  "lat": 52.4804844,
+  "lon": 13.4773213,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3955221976,
+  "lat": 52.5006712,
+  "lon": 13.3262605,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3972068386,
+  "lat": 52.4565346,
+  "lon": 13.5195234,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3987032545,
+  "lat": 52.5298387,
+  "lon": 13.3028755,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 3996922338,
+  "lat": 52.5295905,
+  "lon": 13.3040585,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4014691028,
+  "lat": 52.5295270,
+  "lon": 13.4142924,
+  "tags": {
+    "leisure": "playground",
+    "name": "Schneckenspielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 4014691029,
+  "lat": 52.5293594,
+  "lon": 13.4147429,
+  "tags": {
+    "leisure": "playground",
+    "name": "Rutschspielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 4014691030,
+  "lat": 52.5292217,
+  "lon": 13.4152082,
+  "tags": {
+    "leisure": "playground",
+    "name": "Wippspielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 4014691031,
+  "lat": 52.5287088,
+  "lon": 13.4145984,
+  "tags": {
+    "leisure": "playground",
+    "name": "Kletterwandspielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 4097937037,
+  "lat": 52.5708913,
+  "lon": 13.1993146,
+  "tags": {
+    "leisure": "playground",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4097937047,
+  "lat": 52.5726649,
+  "lon": 13.1992744,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4100233304,
+  "lat": 52.5691042,
+  "lon": 13.1964613,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4136284715,
+  "lat": 52.5846481,
+  "lon": 13.3072913,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4147051984,
+  "lat": 52.5880448,
+  "lon": 13.2931792,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4153700971,
+  "lat": 52.5063582,
+  "lon": 13.3294964,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4156351865,
+  "lat": 52.4335205,
+  "lon": 13.5758996,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4156351881,
+  "lat": 52.4338223,
+  "lon": 13.5759986,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4172732089,
+  "lat": 52.4751410,
+  "lon": 13.5233580,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4183659864,
+  "lat": 52.5028840,
+  "lon": 13.5297809,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4217090789,
+  "lat": 52.5129609,
+  "lon": 13.4090103,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4219866805,
+  "lat": 52.4623254,
+  "lon": 13.5299810,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4236231598,
+  "lat": 52.4980654,
+  "lon": 13.5682584,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4288410134,
+  "lat": 52.6242209,
+  "lon": 13.4950967,
+  "tags": {
+    "leisure": "playground",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4293352989,
+  "lat": 52.4582680,
+  "lon": 13.3513026,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4311533816,
+  "lat": 52.6250459,
+  "lon": 13.4978491,
+  "tags": {
+    "leisure": "playground",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4330997692,
+  "lat": 52.5273472,
+  "lon": 13.5926957,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4331039589,
+  "lat": 52.5276359,
+  "lon": 13.5917248,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4338653390,
+  "lat": 52.4319547,
+  "lon": 13.3898469,
+  "tags": {
+    "leisure": "playground",
+    "opening_hours": "Mo-Su 08:00-13:00,15:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4338695260,
+  "lat": 52.4315479,
+  "lon": 13.3878899,
+  "tags": {
+    "leisure": "playground",
+    "opening_hours": "Mo-Su 08:00-13:00,15:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4341056691,
+  "lat": 52.6362530,
+  "lon": 13.4912422,
+  "tags": {
+    "amenity": "childcare",
+    "leisure": "playground",
+    "name": "Moorwiese",
+    "opening_hours": "Tu-Sa 13:30-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4347487177,
+  "lat": 52.4278861,
+  "lon": 13.4166587,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4358677389,
+  "lat": 52.5457503,
+  "lon": 13.2809131,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4361898138,
+  "lat": 52.4507888,
+  "lon": 13.6110090,
+  "tags": {
+    "leisure": "playground",
+    "name": "Waldspielplatz Hirschgartendreieck",
+    "operator": "Berliner Forsten",
+    "website": "http://www.stadtentwicklung.berlin.de/forsten/freizeit/waldspielplaetze/de/hirschgarten.shtml"
+  }
+},
+{
+  "type": "node",
+  "id": 4361898139,
+  "lat": 52.3433127,
+  "lon": 13.6513116,
+  "tags": {
+    "leisure": "playground",
+    "name": "Waldspielplatz Rauchfangswerder",
+    "operator": "Berliner Forsten",
+    "website": "http://www.stadtentwicklung.berlin.de/forsten/freizeit/waldspielplaetze/de/rauchfangswerder.shtml"
+  }
+},
+{
+  "type": "node",
+  "id": 4367704201,
+  "lat": 52.4801443,
+  "lon": 13.6044738,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4374356278,
+  "lat": 52.4283612,
+  "lon": 13.3608039,
+  "tags": {
+    "access": "private",
+    "leisure": "playground",
+    "playground": "sandpit, Slide"
+  }
+},
+{
+  "type": "node",
+  "id": 4405477781,
+  "lat": 52.5007395,
+  "lon": 13.3049356,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4411492301,
+  "lat": 52.5287773,
+  "lon": 13.3310079,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989126,
+  "lat": 52.4652028,
+  "lon": 13.4760258,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989164,
+  "lat": 52.4761052,
+  "lon": 13.4799341,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989182,
+  "lat": 52.4772534,
+  "lon": 13.4770881,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989188,
+  "lat": 52.4780212,
+  "lon": 13.4769759,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989699,
+  "lat": 52.4635028,
+  "lon": 13.4756416,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989727,
+  "lat": 52.4736813,
+  "lon": 13.4772973,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989732,
+  "lat": 52.4739966,
+  "lon": 13.4825805,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989752,
+  "lat": 52.4750256,
+  "lon": 13.4814375,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4415989994,
+  "lat": 52.4784769,
+  "lon": 13.4748044,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4426813653,
+  "lat": 52.4670248,
+  "lon": 13.4808804,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4426813698,
+  "lat": 52.4676928,
+  "lon": 13.4860986,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4430734888,
+  "lat": 52.4517427,
+  "lon": 13.2695308,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4498221219,
+  "lat": 52.4916345,
+  "lon": 13.5098701,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4508109445,
+  "lat": 52.4452656,
+  "lon": 13.3423210,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4551104991,
+  "lat": 52.4287507,
+  "lon": 13.5940936,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4563484718,
+  "lat": 52.4979634,
+  "lon": 13.4985939,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4563486101,
+  "lat": 52.4984126,
+  "lon": 13.5003905,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4610249064,
+  "lat": 52.4808236,
+  "lon": 13.5333882,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4621963731,
+  "lat": 52.4928458,
+  "lon": 13.5093191,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4621978758,
+  "lat": 52.4934003,
+  "lon": 13.5125368,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4621982708,
+  "lat": 52.4935649,
+  "lon": 13.5140214,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4621996994,
+  "lat": 52.4930297,
+  "lon": 13.5165099,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4622626832,
+  "lat": 52.4794372,
+  "lon": 13.4516005,
+  "tags": {
+    "climbing:boulder": "yes",
+    "fee": "yes",
+    "indoor": "yes",
+    "leisure": "playground",
+    "name": "Kinderwald",
+    "operator": "Bouldergarten GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 4634471308,
+  "lat": 52.4945346,
+  "lon": 13.5081865,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4637528535,
+  "lat": 52.4890528,
+  "lon": 13.4548795,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4638143754,
+  "lat": 52.4525757,
+  "lon": 13.3206110,
+  "tags": {
+    "description": "Kleiner Spielplatz mit einem Haus sowie Rutsche und mehreren Balanceelementen",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4680157739,
+  "lat": 52.5098159,
+  "lon": 13.4782851,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4680160254,
+  "lat": 52.5092541,
+  "lon": 13.4794542,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4680171951,
+  "lat": 52.5080514,
+  "lon": 13.4813295,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4681689527,
+  "lat": 52.6391646,
+  "lon": 13.2891283,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 4693583937,
+  "lat": 52.4288284,
+  "lon": 13.2289151,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4693583946,
+  "lat": 52.4287288,
+  "lon": 13.2274177,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4693629793,
+  "lat": 52.4296481,
+  "lon": 13.2281613,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4704975520,
+  "lat": 52.5034512,
+  "lon": 13.4925067,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4716440132,
+  "lat": 52.5723739,
+  "lon": 13.4893386,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4717970757,
+  "lat": 52.4688510,
+  "lon": 13.4926986,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4719440371,
+  "lat": 52.5229087,
+  "lon": 13.1625346,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4719440372,
+  "lat": 52.5229348,
+  "lon": 13.1644309,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4719440373,
+  "lat": 52.5228239,
+  "lon": 13.1652919,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4719440374,
+  "lat": 52.5231241,
+  "lon": 13.1664748,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4719440375,
+  "lat": 52.5230360,
+  "lon": 13.1673063,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4730501442,
+  "lat": 52.4700968,
+  "lon": 13.5673309,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4749052523,
+  "lat": 52.4297231,
+  "lon": 13.5932368,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4753282020,
+  "lat": 52.5720688,
+  "lon": 13.5699198,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4766510336,
+  "lat": 52.4965233,
+  "lon": 13.3992417,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4777044095,
+  "lat": 52.6055030,
+  "lon": 13.3344087,
+  "tags": {
+    "leisure": "playground",
+    "name": "Tischtennisplatte"
+  }
+},
+{
+  "type": "node",
+  "id": 4777044096,
+  "lat": 52.6054443,
+  "lon": 13.3344432,
+  "tags": {
+    "leisure": "playground",
+    "name": "Tischtennisplatte"
+  }
+},
+{
+  "type": "node",
+  "id": 4813372368,
+  "lat": 52.5673738,
+  "lon": 13.5333944,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4813395795,
+  "lat": 52.5640491,
+  "lon": 13.5311282,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4820070607,
+  "lat": 52.4994760,
+  "lon": 13.5139480,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4825235695,
+  "lat": 52.4952301,
+  "lon": 13.5043812,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4889402749,
+  "lat": 52.4867873,
+  "lon": 13.5178121,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4892308076,
+  "lat": 52.5772082,
+  "lon": 13.3470367,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4893812443,
+  "lat": 52.4958786,
+  "lon": 13.3544852,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4897199869,
+  "lat": 52.5331247,
+  "lon": 13.5456398,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4897206183,
+  "lat": 52.5326054,
+  "lon": 13.5479270,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4897211120,
+  "lat": 52.5335212,
+  "lon": 13.5476071,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4897228732,
+  "lat": 52.5337538,
+  "lon": 13.5469510,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4908859784,
+  "lat": 52.4993169,
+  "lon": 13.5003240,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4908859787,
+  "lat": 52.4997706,
+  "lon": 13.4996488,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4908977701,
+  "lat": 52.4978234,
+  "lon": 13.5060307,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4908977703,
+  "lat": 52.4993623,
+  "lon": 13.5050535,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4909332850,
+  "lat": 52.5516385,
+  "lon": 13.5577191,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4909332851,
+  "lat": 52.5509275,
+  "lon": 13.5568265,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4910533620,
+  "lat": 52.5026519,
+  "lon": 13.5106750,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4910534427,
+  "lat": 52.5030024,
+  "lon": 13.5107026,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4910534428,
+  "lat": 52.5010163,
+  "lon": 13.5109596,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4910534432,
+  "lat": 52.5011080,
+  "lon": 13.5103347,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4910534433,
+  "lat": 52.5012274,
+  "lon": 13.5097444,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4910939328,
+  "lat": 52.4954322,
+  "lon": 13.5084830,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4910939350,
+  "lat": 52.4958565,
+  "lon": 13.5078946,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4944992839,
+  "lat": 52.4874876,
+  "lon": 13.3559136,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4948137829,
+  "lat": 52.5292367,
+  "lon": 13.3936677,
+  "tags": {
+    "leisure": "playground",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4949461837,
+  "lat": 52.5312357,
+  "lon": 13.4741452,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielplatz Am Kleinen Fennpfuhl"
+  }
+},
+{
+  "type": "node",
+  "id": 4954651329,
+  "lat": 52.4619205,
+  "lon": 13.2689083,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4959495499,
+  "lat": 52.4723216,
+  "lon": 13.4283260,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4959864078,
+  "lat": 52.4982497,
+  "lon": 13.5153183,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4959892791,
+  "lat": 52.4970847,
+  "lon": 13.5078265,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4993228869,
+  "lat": 52.4500165,
+  "lon": 13.4505762,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 4993228871,
+  "lat": 52.4506031,
+  "lon": 13.4504474,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5001523802,
+  "lat": 52.4963956,
+  "lon": 13.5159779,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5001523806,
+  "lat": 52.4966766,
+  "lon": 13.5180322,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "name": "Spielplatz An der Dathepromenade"
+  }
+},
+{
+  "type": "node",
+  "id": 5001733120,
+  "lat": 52.5640548,
+  "lon": 13.4411067,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5004532843,
+  "lat": 52.5013939,
+  "lon": 13.5021617,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5004568409,
+  "lat": 52.5020432,
+  "lon": 13.5063673,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5004568410,
+  "lat": 52.5023904,
+  "lon": 13.5069849,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5004568417,
+  "lat": 52.5019615,
+  "lon": 13.5072210,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5027237631,
+  "lat": 52.4811711,
+  "lon": 13.3631019,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5038840822,
+  "lat": 52.4984205,
+  "lon": 13.4336511,
+  "tags": {
+    "leisure": "playground",
+    "opening_hours": "Mo-Th 14:00-22:00; Fr 14:00-00:00; Sa 10:00-00:00; Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5046270190,
+  "lat": 52.5062687,
+  "lon": 13.5109493,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5046287669,
+  "lat": 52.5070508,
+  "lon": 13.5103538,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5072747001,
+  "lat": 52.4947578,
+  "lon": 13.5044167,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5075144799,
+  "lat": 52.4900072,
+  "lon": 13.5132351,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5077484899,
+  "lat": 52.5010418,
+  "lon": 13.3510856,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5094750206,
+  "lat": 52.4966529,
+  "lon": 13.5163321,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "name": "Spielplatz Osterwäldchen"
+  }
+},
+{
+  "type": "node",
+  "id": 5096054051,
+  "lat": 52.4975488,
+  "lon": 13.4847448,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5109765124,
+  "lat": 52.5268489,
+  "lon": 13.3635865,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5139356774,
+  "lat": 52.5129569,
+  "lon": 13.4065169,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5167115409,
+  "lat": 52.5009482,
+  "lon": 13.3547239,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5168682624,
+  "lat": 52.4490155,
+  "lon": 13.3504369,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5211241079,
+  "lat": 52.6090597,
+  "lon": 13.3367425,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5226628612,
+  "lat": 52.4765857,
+  "lon": 13.4343159,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5226844882,
+  "lat": 52.5758602,
+  "lon": 13.3684521,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5230542676,
+  "lat": 52.5679817,
+  "lon": 13.3644933,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5233720829,
+  "lat": 52.5749099,
+  "lon": 13.3688962,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5241879451,
+  "lat": 52.5686011,
+  "lon": 13.3535063,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5245841438,
+  "lat": 52.5704079,
+  "lon": 13.3594206,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5245877822,
+  "lat": 52.5678094,
+  "lon": 13.3458448,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249512824,
+  "lat": 52.5420454,
+  "lon": 13.5739185,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249512825,
+  "lat": 52.5439808,
+  "lon": 13.5717489,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249512930,
+  "lat": 52.5426879,
+  "lon": 13.5758535,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249512931,
+  "lat": 52.5438098,
+  "lon": 13.5717293,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249513227,
+  "lat": 52.5419143,
+  "lon": 13.5753653,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249513228,
+  "lat": 52.5409701,
+  "lon": 13.5736295,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249513229,
+  "lat": 52.5411160,
+  "lon": 13.5723573,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249513230,
+  "lat": 52.5434964,
+  "lon": 13.5745305,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249513231,
+  "lat": 52.5434206,
+  "lon": 13.5761557,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249513232,
+  "lat": 52.5435967,
+  "lon": 13.5731743,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249513233,
+  "lat": 52.5435566,
+  "lon": 13.5717591,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249519722,
+  "lat": 52.5422300,
+  "lon": 13.5724939,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5249520121,
+  "lat": 52.5412651,
+  "lon": 13.5709820,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5250276423,
+  "lat": 52.5447914,
+  "lon": 13.5749660,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5279833068,
+  "lat": 52.5731900,
+  "lon": 13.3606447,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5279833073,
+  "lat": 52.5719421,
+  "lon": 13.3609820,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5291447009,
+  "lat": 52.4980480,
+  "lon": 13.4781761,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5309730307,
+  "lat": 52.4565026,
+  "lon": 13.2724957,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5310869921,
+  "lat": 52.5001944,
+  "lon": 13.3904913,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5310869922,
+  "lat": 52.5001871,
+  "lon": 13.3935423,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5327159432,
+  "lat": 52.5579662,
+  "lon": 13.4126314,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5327159443,
+  "lat": 52.5607117,
+  "lon": 13.4205545,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:postcode": "13189",
+    "addr:suburb": "Pankow",
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5339786551,
+  "lat": 52.5512174,
+  "lon": 13.4096770,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5351787234,
+  "lat": 52.5253391,
+  "lon": 13.1486043,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5352674106,
+  "lat": 52.4995213,
+  "lon": 13.4240900,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5352674107,
+  "lat": 52.4995601,
+  "lon": 13.4238794,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5354313636,
+  "lat": 52.4197256,
+  "lon": 13.2824954,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5378770154,
+  "lat": 52.4918367,
+  "lon": 13.5112341,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "max_age": "6",
+    "min_age": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 5383285181,
+  "lat": 52.5248412,
+  "lon": 13.4185898,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5398025221,
+  "lat": 52.4779205,
+  "lon": 13.4920363,
+  "tags": {
+    "leisure": "playground",
+    "name": "Waldspielplatz Plänterwald",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5407237291,
+  "lat": 52.3857440,
+  "lon": 13.3998286,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5413900654,
+  "lat": 52.5798064,
+  "lon": 13.3347256,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5413900655,
+  "lat": 52.5793086,
+  "lon": 13.3345087,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5413900656,
+  "lat": 52.5801861,
+  "lon": 13.3347443,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5416424791,
+  "lat": 52.4602765,
+  "lon": 13.3771251,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5418743296,
+  "lat": 52.5492544,
+  "lon": 13.4399311,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5420255665,
+  "lat": 52.5154924,
+  "lon": 13.4942031,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5439517764,
+  "lat": 52.5604103,
+  "lon": 13.4208486,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:postcode": "13189",
+    "addr:suburb": "Pankow",
+    "leisure": "playground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5445832812,
+  "lat": 52.5709134,
+  "lon": 13.4025756,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5449038032,
+  "lat": 52.5236317,
+  "lon": 13.4526261,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5449068124,
+  "lat": 52.5390782,
+  "lon": 13.4463264,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5449271354,
+  "lat": 52.5521555,
+  "lon": 13.4341703,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5454009615,
+  "lat": 52.4957544,
+  "lon": 13.5356840,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5454087759,
+  "lat": 52.4902712,
+  "lon": 13.5254471,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5454990101,
+  "lat": 52.4898424,
+  "lon": 13.5253463,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5469267470,
+  "lat": 52.5198022,
+  "lon": 13.4840132,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5469267473,
+  "lat": 52.5197901,
+  "lon": 13.4833707,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5470079344,
+  "lat": 52.5419067,
+  "lon": 13.3993518,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5470079345,
+  "lat": 52.5420705,
+  "lon": 13.3992317,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5470079346,
+  "lat": 52.5422232,
+  "lon": 13.3990952,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5470825723,
+  "lat": 52.4607691,
+  "lon": 13.5405610,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5470828023,
+  "lat": 52.5338555,
+  "lon": 13.3596791,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5471152655,
+  "lat": 52.5541789,
+  "lon": 13.4247592,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5477244417,
+  "lat": 52.4378025,
+  "lon": 13.4550944,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5486310639,
+  "lat": 52.4147703,
+  "lon": 13.6539976,
+  "tags": {
+    "leisure": "playground",
+    "playground": "sandpit"
+  }
+},
+{
+  "type": "node",
+  "id": 5489585014,
+  "lat": 52.4996727,
+  "lon": 13.4422740,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5489586032,
+  "lat": 52.4991078,
+  "lon": 13.4340450,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5514235565,
+  "lat": 52.4987851,
+  "lon": 13.4633609,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5540839623,
+  "lat": 52.6028244,
+  "lon": 13.3654596,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5540839624,
+  "lat": 52.6030684,
+  "lon": 13.3652168,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5540839625,
+  "lat": 52.6031733,
+  "lon": 13.3649459,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5540839626,
+  "lat": 52.6031260,
+  "lon": 13.3645116,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5540839627,
+  "lat": 52.6025007,
+  "lon": 13.3634165,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5540839628,
+  "lat": 52.6054260,
+  "lon": 13.3621915,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5545383806,
+  "lat": 52.6030148,
+  "lon": 13.3662502,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5545383807,
+  "lat": 52.6026663,
+  "lon": 13.3662837,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5546273280,
+  "lat": 52.6046172,
+  "lon": 13.3509110,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5546362356,
+  "lat": 52.6025460,
+  "lon": 13.3500859,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5550508634,
+  "lat": 52.6022947,
+  "lon": 13.3614938,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5550508635,
+  "lat": 52.6038918,
+  "lon": 13.3636962,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5550558011,
+  "lat": 52.6043088,
+  "lon": 13.3522893,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5551021728,
+  "lat": 52.6033194,
+  "lon": 13.3529370,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5552441100,
+  "lat": 52.6001926,
+  "lon": 13.3609163,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5552503719,
+  "lat": 52.6315537,
+  "lon": 13.3946619,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5561700005,
+  "lat": 52.5995305,
+  "lon": 13.3586597,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5561700006,
+  "lat": 52.5989729,
+  "lon": 13.3585660,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5561700007,
+  "lat": 52.5988446,
+  "lon": 13.3589909,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5561700008,
+  "lat": 52.5991956,
+  "lon": 13.3575022,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5561708947,
+  "lat": 52.6038877,
+  "lon": 13.3659675,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5569188828,
+  "lat": 52.4980755,
+  "lon": 13.4126465,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5586240994,
+  "lat": 52.5536863,
+  "lon": 13.1984939,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5587090715,
+  "lat": 52.4598940,
+  "lon": 13.3770608,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5599915518,
+  "lat": 52.4595641,
+  "lon": 13.6113496,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5600379388,
+  "lat": 52.5674987,
+  "lon": 13.5782709,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5628326932,
+  "lat": 52.4401509,
+  "lon": 13.2168059,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "note": "Klettergerüste"
+  }
+},
+{
+  "type": "node",
+  "id": 5635147204,
+  "lat": 52.5216061,
+  "lon": 13.1965660,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5635147205,
+  "lat": 52.5242893,
+  "lon": 13.2004309,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5641930030,
+  "lat": 52.5020427,
+  "lon": 13.3508536,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5671118026,
+  "lat": 52.4600971,
+  "lon": 13.3768884,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5671118029,
+  "lat": 52.4596049,
+  "lon": 13.3755147,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5681143623,
+  "lat": 52.4216957,
+  "lon": 13.5798356,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5693384408,
+  "lat": 52.5292310,
+  "lon": 13.1994716,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5715318318,
+  "lat": 52.5720446,
+  "lon": 13.4372661,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5718500315,
+  "lat": 52.5907758,
+  "lon": 13.3384928,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5725896555,
+  "lat": 52.5866614,
+  "lon": 13.3401222,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5725896556,
+  "lat": 52.5864163,
+  "lon": 13.3402998,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5745419088,
+  "lat": 52.5879213,
+  "lon": 13.3292846,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5745542314,
+  "lat": 52.5893336,
+  "lon": 13.3277804,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5747117177,
+  "lat": 52.5016867,
+  "lon": 13.5037841,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5749517707,
+  "lat": 52.5575815,
+  "lon": 13.4274195,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5765337054,
+  "lat": 52.5482138,
+  "lon": 13.1940651,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:postcode": "13585",
+    "addr:street": "Falkenhagener Tor",
+    "leisure": "playground",
+    "name": "Spielplatz",
+    "website": "https://www.top10berlin.de/de/cat/familie-275/spielplaetze-1484/spielplatz-am-falkenhagener-tor-4370#1",
+    "wheelchair": "limited",
+    "wheelchair:description": "Mit Rollstuhl befahrbare Hängebrücke, Karussell mit Korb, Hügel mit Kunststoffbelag zum Rollen, Pavillon mit Liegemöglichkeiten /DK"
+  }
+},
+{
+  "type": "node",
+  "id": 5765667967,
+  "lat": 52.5847842,
+  "lon": 13.3325234,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5769052442,
+  "lat": 52.5137873,
+  "lon": 13.4383799,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5777670108,
+  "lat": 52.4146752,
+  "lon": 13.2969505,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5777670113,
+  "lat": 52.4219545,
+  "lon": 13.3036966,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5777670117,
+  "lat": 52.4299818,
+  "lon": 13.3093803,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5779018019,
+  "lat": 52.5015424,
+  "lon": 13.5016993,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5784137480,
+  "lat": 52.4990150,
+  "lon": 13.4857442,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5825013820,
+  "lat": 52.5349377,
+  "lon": 13.2796718,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5825383195,
+  "lat": 52.4417150,
+  "lon": 13.5684802,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5825383198,
+  "lat": 52.4398415,
+  "lon": 13.5693776,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5825383199,
+  "lat": 52.4409722,
+  "lon": 13.5692297,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5825389565,
+  "lat": 52.4386432,
+  "lon": 13.5660993,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5826913180,
+  "lat": 52.4995819,
+  "lon": 13.5298767,
+  "tags": {
+    "leisure": "playground",
+    "playground": "water"
+  }
+},
+{
+  "type": "node",
+  "id": 5829422829,
+  "lat": 52.4992220,
+  "lon": 13.4930542,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5829422833,
+  "lat": 52.4992238,
+  "lon": 13.4929278,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5829633761,
+  "lat": 52.5040033,
+  "lon": 13.4919789,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5844150623,
+  "lat": 52.5772509,
+  "lon": 13.3220958,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5844166927,
+  "lat": 52.5775582,
+  "lon": 13.3300620,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5859009108,
+  "lat": 52.5020034,
+  "lon": 13.5057161,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5910112949,
+  "lat": 52.5711641,
+  "lon": 13.5014572,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5910139885,
+  "lat": 52.5026215,
+  "lon": 13.5085724,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5911153085,
+  "lat": 52.4718514,
+  "lon": 13.4902072,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5911153086,
+  "lat": 52.4770167,
+  "lon": 13.4838164,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5911153185,
+  "lat": 52.4759268,
+  "lon": 13.4838127,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5922449271,
+  "lat": 52.5097924,
+  "lon": 13.4869624,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground",
+    "toilets:wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5935206974,
+  "lat": 52.5388050,
+  "lon": 13.4308666,
+  "tags": {
+    "leisure": "playground",
+    "playground:climbingframe": "yes",
+    "playground:sandpit": "yes",
+    "playground:slide": "yes",
+    "playground:swing": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5938286901,
+  "lat": 52.5483019,
+  "lon": 13.4390768,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5952121595,
+  "lat": 52.5619044,
+  "lon": 13.4094515,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5981180550,
+  "lat": 52.3933520,
+  "lon": 13.3962332,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 5995875376,
+  "lat": 52.4926468,
+  "lon": 13.3783122,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6003537263,
+  "lat": 52.5655848,
+  "lon": 13.4204008,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6003537264,
+  "lat": 52.5656401,
+  "lon": 13.4201515,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6005882527,
+  "lat": 52.6030013,
+  "lon": 13.3268831,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6007016012,
+  "lat": 52.5614403,
+  "lon": 13.3979485,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6019367885,
+  "lat": 52.4350791,
+  "lon": 13.7071993,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6044426197,
+  "lat": 52.5015551,
+  "lon": 13.3848116,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6064794971,
+  "lat": 52.5506551,
+  "lon": 13.4087627,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6080185958,
+  "lat": 52.3915145,
+  "lon": 13.4001833,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6128165933,
+  "lat": 52.4639934,
+  "lon": 13.5741272,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6171061179,
+  "lat": 52.4817929,
+  "lon": 13.5292240,
+  "tags": {
+    "dog": "no",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6171087336,
+  "lat": 52.4792052,
+  "lon": 13.5276541,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6203333995,
+  "lat": 52.4951404,
+  "lon": 13.5035181,
+  "tags": {
+    "access": "permissive",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6205451516,
+  "lat": 52.5703780,
+  "lon": 13.4369913,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielplatz"
+  }
+},
+{
+  "type": "node",
+  "id": 6205593109,
+  "lat": 52.5177519,
+  "lon": 13.5043269,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6210190253,
+  "lat": 52.5164226,
+  "lon": 13.4191974,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6215805227,
+  "lat": 52.5443708,
+  "lon": 13.3647357,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6240379256,
+  "lat": 52.6040100,
+  "lon": 13.4261768,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6242084242,
+  "lat": 52.6046466,
+  "lon": 13.4248409,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6245921125,
+  "lat": 52.5500446,
+  "lon": 13.3379911,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6245921128,
+  "lat": 52.5474277,
+  "lon": 13.3313620,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6267947869,
+  "lat": 52.4277467,
+  "lon": 13.3620447,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "surface": "sand"
+  }
+},
+{
+  "type": "node",
+  "id": 6268054923,
+  "lat": 52.4166601,
+  "lon": 13.3521352,
+  "tags": {
+    "access": "private",
+    "leisure": "playground",
+    "surface": "sand"
+  }
+},
+{
+  "type": "node",
+  "id": 6268491099,
+  "lat": 52.5616728,
+  "lon": 13.4062906,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6268586262,
+  "lat": 52.4766126,
+  "lon": 13.4371961,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6268586277,
+  "lat": 52.4764059,
+  "lon": 13.4379131,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6269535928,
+  "lat": 52.5760217,
+  "lon": 13.4196504,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6269535929,
+  "lat": 52.5759032,
+  "lon": 13.4196843,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6270020078,
+  "lat": 52.5392998,
+  "lon": 13.4063716,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6284645090,
+  "lat": 52.5424251,
+  "lon": 13.4040843,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6289203882,
+  "lat": 52.4918628,
+  "lon": 13.4321434,
+  "tags": {
+    "access": "private",
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6309068660,
+  "lat": 52.5550392,
+  "lon": 13.3548313,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 6309068661,
+  "lat": 52.5543314,
+  "lon": 13.3537692,
+  "tags": {
+    "leisure": "playground"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,1240 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-03-02T20:15:02Z",
+    "timestamp_areas_base": "2019-03-02T19:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 314585076,
+  "lat": 52.5520246,
+  "lon": 13.4633168,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 314586003,
+  "lat": 52.4630234,
+  "lon": 13.5475318,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 1757448600,
+  "lat": 52.4423244,
+  "lon": 13.5406486,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 1777610659,
+  "lat": 52.4125103,
+  "lon": 13.4236299,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 1987638714,
+  "lat": 52.5181490,
+  "lon": 13.3263760,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2098916735,
+  "lat": 52.4626858,
+  "lon": 13.4176555,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2304772625,
+  "lat": 52.4972754,
+  "lon": 13.3714929,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2304772628,
+  "lat": 52.4982975,
+  "lon": 13.3709672,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2374598867,
+  "lat": 52.4942145,
+  "lon": 13.3786198,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2375950696,
+  "lat": 52.4277424,
+  "lon": 13.4291743,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2375950722,
+  "lat": 52.4277882,
+  "lon": 13.4295176,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2376849891,
+  "lat": 52.4677653,
+  "lon": 13.3344324,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2376849895,
+  "lat": 52.4677781,
+  "lon": 13.3344065,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2376849898,
+  "lat": 52.4677869,
+  "lon": 13.3344455,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2406415343,
+  "lat": 52.4677691,
+  "lon": 13.3226149,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2433709553,
+  "lat": 52.4881812,
+  "lon": 13.4392192,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2433709578,
+  "lat": 52.4884184,
+  "lon": 13.4394314,
+  "tags": {
+    "capacity": "6",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2496228866,
+  "lat": 52.5004556,
+  "lon": 13.3720882,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2557031046,
+  "lat": 52.4914667,
+  "lon": 13.4441972,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2687646328,
+  "lat": 52.3934761,
+  "lon": 13.5831129,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2731774497,
+  "lat": 52.4896653,
+  "lon": 13.3733451,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2756088696,
+  "lat": 52.4283266,
+  "lon": 13.4272453,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 2867461881,
+  "lat": 52.4210614,
+  "lon": 13.4358150,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3041108733,
+  "lat": 52.4657318,
+  "lon": 13.3259844,
+  "tags": {
+    "baby": "yes",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3041108735,
+  "lat": 52.4657416,
+  "lon": 13.3259487,
+  "tags": {
+    "baby": "yes",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3041108745,
+  "lat": 52.4658458,
+  "lon": 13.3261018,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3041108746,
+  "lat": 52.4658675,
+  "lon": 13.3261237,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3091294076,
+  "lat": 52.5423192,
+  "lon": 13.4041529,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3091294077,
+  "lat": 52.5426217,
+  "lon": 13.4039321,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3091294078,
+  "lat": 52.5427110,
+  "lon": 13.4039005,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3091294079,
+  "lat": 52.5429302,
+  "lon": 13.4038240,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3091341835,
+  "lat": 52.5462164,
+  "lon": 13.4011334,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3102540979,
+  "lat": 52.4940297,
+  "lon": 13.3751469,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3166392460,
+  "lat": 52.4926061,
+  "lon": 13.3756925,
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3290672062,
+  "lat": 52.4922563,
+  "lon": 13.2379357,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3360303254,
+  "lat": 52.4535530,
+  "lon": 13.5848490,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3495649394,
+  "lat": 52.4069143,
+  "lon": 13.5620906,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3682089886,
+  "lat": 52.4817992,
+  "lon": 13.4887938,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3707252542,
+  "lat": 52.5047635,
+  "lon": 13.3150439,
+  "tags": {
+    "baby": "yes",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3707252546,
+  "lat": 52.5047747,
+  "lon": 13.3150306,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3713683067,
+  "lat": 52.4936862,
+  "lon": 13.3107346,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3716615817,
+  "lat": 52.4953047,
+  "lon": 13.3006234,
+  "tags": {
+    "baby": "yes",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3716615818,
+  "lat": 52.4953075,
+  "lon": 13.3006000,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3739699285,
+  "lat": 52.5485817,
+  "lon": 13.1759057,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3740578214,
+  "lat": 52.5486084,
+  "lon": 13.3996270,
+  "tags": {
+    "capacity": "1",
+    "playground": "swing",
+    "swing": "monoswing"
+  }
+},
+{
+  "type": "node",
+  "id": 3740578218,
+  "lat": 52.5486896,
+  "lon": 13.3996228,
+  "tags": {
+    "capacity": "1",
+    "playground": "swing",
+    "swing": "monoswing"
+  }
+},
+{
+  "type": "node",
+  "id": 3740578430,
+  "lat": 52.5488876,
+  "lon": 13.3998878,
+  "tags": {
+    "baby": "yes",
+    "capacity": "1",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3740578431,
+  "lat": 52.5488933,
+  "lon": 13.3999336,
+  "tags": {
+    "capacity": "1",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3740621046,
+  "lat": 52.5456110,
+  "lon": 13.4014699,
+  "tags": {
+    "capacity": "1",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3740621047,
+  "lat": 52.5458251,
+  "lon": 13.4007762,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 3799641876,
+  "lat": 52.4610178,
+  "lon": 13.5471204,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 4057919473,
+  "lat": 52.4535495,
+  "lon": 13.5723369,
+  "tags": {
+    "capacity": "1",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 4114505210,
+  "lat": 52.5327139,
+  "lon": 13.4030201,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 4173050681,
+  "lat": 52.5641366,
+  "lon": 13.4056686,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 4857298265,
+  "lat": 52.5330414,
+  "lon": 13.3074380,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 4910096787,
+  "lat": 52.5104034,
+  "lon": 13.4143872,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5001539600,
+  "lat": 52.5025981,
+  "lon": 13.4877916,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5007994861,
+  "lat": 52.3735348,
+  "lon": 13.6549333,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5182208827,
+  "lat": 52.4744579,
+  "lon": 13.4477514,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5287577437,
+  "lat": 52.4763764,
+  "lon": 13.4419838,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5388607180,
+  "lat": 52.4894184,
+  "lon": 13.4809695,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5433785248,
+  "lat": 52.4810753,
+  "lon": 13.4397737,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5501745337,
+  "lat": 52.4747173,
+  "lon": 13.4433789,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5562191579,
+  "lat": 39.7979382,
+  "lon": -74.9480165,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5562191596,
+  "lat": 39.7978248,
+  "lon": -74.9476356,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5562191690,
+  "lat": 39.7913194,
+  "lon": -74.9374132,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5571881310,
+  "lat": 52.4887142,
+  "lon": 13.3523484,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5571881317,
+  "lat": 52.4877280,
+  "lon": 13.3653740,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5571881935,
+  "lat": 52.4877779,
+  "lon": 13.3651263,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5614796687,
+  "lat": 52.4186322,
+  "lon": 13.5038971,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5618183641,
+  "lat": 52.4830828,
+  "lon": 13.4553972,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5618183653,
+  "lat": 52.4828449,
+  "lon": 13.4557384,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5641452331,
+  "lat": 52.4669978,
+  "lon": 13.1923627,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5718437950,
+  "lat": 52.4737957,
+  "lon": 13.4380105,
+  "tags": {
+    "baby": "no",
+    "direction": "90",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5718437951,
+  "lat": 52.4738042,
+  "lon": 13.4380099,
+  "tags": {
+    "baby": "no",
+    "direction": "90",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5719227961,
+  "lat": 52.4738687,
+  "lon": 13.4387052,
+  "tags": {
+    "baby": "no",
+    "direction": "300",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5724064168,
+  "lat": 52.4666380,
+  "lon": 13.4712987,
+  "tags": {
+    "baby": "no",
+    "capacity": "2",
+    "direction": "355",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5747823460,
+  "lat": 52.3989176,
+  "lon": 13.5660037,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5761728343,
+  "lat": 52.4766708,
+  "lon": 13.4655151,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5769571441,
+  "lat": 52.4772476,
+  "lon": 13.4503770,
+  "tags": {
+    "baby": "no",
+    "capacity": "3",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5769571765,
+  "lat": 52.4776438,
+  "lon": 13.4498146,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5776645570,
+  "lat": 52.4476032,
+  "lon": 13.5141431,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5777053738,
+  "lat": 52.4337292,
+  "lon": 13.4203800,
+  "tags": {
+    "baby": "no",
+    "capacity": "2",
+    "playground": "swing",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5777053746,
+  "lat": 52.4338042,
+  "lon": 13.4202817,
+  "tags": {
+    "baby": "no",
+    "capacity": "4",
+    "note": "Tau",
+    "playground": "swing",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5784610288,
+  "lat": 52.4320731,
+  "lon": 13.4077742,
+  "tags": {
+    "baby": "no",
+    "description": "Pendelsitz",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5784610289,
+  "lat": 52.4322276,
+  "lon": 13.4077313,
+  "tags": {
+    "baby": "no",
+    "description": "Pendelsitz",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5784610290,
+  "lat": 52.4321377,
+  "lon": 13.4078453,
+  "tags": {
+    "baby": "no",
+    "description": "Pendelsitz",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5785935261,
+  "lat": 52.4329527,
+  "lon": 13.4096640,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5785935338,
+  "lat": 52.4342502,
+  "lon": 13.4134758,
+  "tags": {
+    "baby": "no",
+    "capacity": "3",
+    "description": "Man hängt mit den Armen an der Schaukel und schwingt.",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5785954984,
+  "lat": 52.4342663,
+  "lon": 13.4133110,
+  "tags": {
+    "baby": "no",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5817068828,
+  "lat": 52.4177041,
+  "lon": 13.5187026,
+  "tags": {
+    "capacity": "6",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5818506953,
+  "lat": 52.6271965,
+  "lon": 13.2761555,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5826913162,
+  "lat": 52.4994603,
+  "lon": 13.5303454,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5834237600,
+  "lat": 52.4974310,
+  "lon": 13.4440913,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5838505532,
+  "lat": 52.5092711,
+  "lon": 13.2998681,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5841480578,
+  "lat": 52.5173196,
+  "lon": 13.4667054,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5844658016,
+  "lat": 52.4937203,
+  "lon": 13.4857511,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5856777097,
+  "lat": 52.4725610,
+  "lon": 13.4526784,
+  "tags": {
+    "baby": "no",
+    "capacity": "5",
+    "description": "\"Raupenschwinger\"",
+    "mapillary": "r_nGtLKG9VhzSbVsnJttiw",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5862101063,
+  "lat": 52.4705035,
+  "lon": 13.4372749,
+  "tags": {
+    "baby": "no",
+    "capacity": "2",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5864764515,
+  "lat": 52.4794456,
+  "lon": 13.4431924,
+  "tags": {
+    "baby": "no",
+    "capacity": "2",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5889799278,
+  "lat": 52.4968391,
+  "lon": 13.4403465,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5892811655,
+  "lat": 52.4641089,
+  "lon": 13.3325701,
+  "tags": {
+    "baby": "no",
+    "capacity": "6",
+    "playground": "swing",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5912285705,
+  "lat": 52.4978313,
+  "lon": 13.4782391,
+  "tags": {
+    "baby": "no",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5912285721,
+  "lat": 52.4977622,
+  "lon": 13.4783414,
+  "tags": {
+    "baby": "no",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5914667168,
+  "lat": 52.5013325,
+  "lon": 13.3724366,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5914667169,
+  "lat": 52.5013895,
+  "lon": 13.3724510,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 5954445158,
+  "lat": 52.5061669,
+  "lon": 13.5172259,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6001052319,
+  "lat": 52.4702950,
+  "lon": 13.4362178,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6001052327,
+  "lat": 52.4699723,
+  "lon": 13.4357066,
+  "tags": {
+    "baby": "yes",
+    "playground": "swing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6169945195,
+  "lat": 52.4759649,
+  "lon": 13.5118224,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6236438313,
+  "lat": 52.5312566,
+  "lon": 13.5887724,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6236438314,
+  "lat": 52.5313980,
+  "lon": 13.5887671,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6236438315,
+  "lat": 52.5316146,
+  "lon": 13.5887735,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6236438316,
+  "lat": 52.5320011,
+  "lon": 13.5888087,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6236438317,
+  "lat": 52.5321724,
+  "lon": 13.5888492,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6237683309,
+  "lat": 52.4757743,
+  "lon": 13.4345980,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6284645090,
+  "lat": 52.5424251,
+  "lon": 13.4040843,
+  "tags": {
+    "leisure": "playground",
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6297335827,
+  "lat": 52.5106803,
+  "lon": 13.4707626,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6297335829,
+  "lat": 52.5107045,
+  "lon": 13.4706891,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6297335831,
+  "lat": 52.5109295,
+  "lon": 13.4702290,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6297335833,
+  "lat": 52.5109626,
+  "lon": 13.4702356,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6297335835,
+  "lat": 52.5109684,
+  "lon": 13.4702929,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6297335837,
+  "lat": 52.5109281,
+  "lon": 13.4703194,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6297335839,
+  "lat": 52.5109076,
+  "lon": 13.4702760,
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "node",
+  "id": 6298787245,
+  "lat": 52.4951527,
+  "lon": 13.5125885,
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+}
+
+  ]
+}

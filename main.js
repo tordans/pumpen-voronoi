@@ -2,6 +2,17 @@ requirejs.config({
     baseUrl: 'bower_components',
 });
 
+// https://stackoverflow.com/a/11920807
+function getHashValue(key) {
+  var matches = location.hash.match(new RegExp(key+'=([^&]*)'));
+  return matches ? matches[1] : null;
+}
+
+// hacky way to use the hash-hyperlinks in index.html
+window.onhashchange = function() {
+  window.location.reload();
+}
+
 // Start the main app logic.
 requirejs(['lodash/lodash', 'd3/d3', 'leaflet/dist/leaflet'],
 function   (lodash,         d3,      leaflet) {
@@ -45,7 +56,6 @@ function   (lodash,         d3,      leaflet) {
       }
   }
 
-
   function positionSvg(){
       var bounds = map.getBounds();
       var topLeft = map.latLngToLayerPoint(bounds.getNorthWest());
@@ -59,7 +69,11 @@ function   (lodash,         d3,      leaflet) {
       return svg;
   }
 
-  d3.json('data.json', function(json){
+  var selection = getHashValue('data') ? getHashValue('data') : 'man_made--water_well';
+  var data = 'data--' + selection + '.json';
+  console.log(data);
+
+  d3.json(data, function(json){
     points = json.elements;
     map.addLayer(mapLayer);
   });
@@ -88,7 +102,6 @@ function   (lodash,         d3,      leaflet) {
     svgPoints2.append("circle")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .attr("r", 2);
-
 
     path = path
       .data(voronoi(convertedPoints), polygon);
