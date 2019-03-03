@@ -1,7 +1,7 @@
-# pumpen-voronoi
-Berlin's public water pumps on a voronoi map
+# Voronoi Map Berlin
+Voronoi map for the are of Berlin for different type of OpenStreetMap data.
 
-- [Map](http://k-nut.github.io/pumpen-voronoi/)
+- [Map](http://tordans.github.io/pumpen-voronoi)
 - Related: [Pumpen with their official "Versorgungsradius" (Map)](http://pumpen-radius.k-nut.eu/)
 
 ![Screenshot](https://raw.githubusercontent.com/k-nut/pumpen-voronoi/master/screenshot.png)
@@ -9,17 +9,20 @@ Berlin's public water pumps on a voronoi map
 
 ## Update data
 
-All the data is in the `data.json` file.
-If you want to update to the current state you need to query the openstreetmap [overpass turbo api ](http://overpass-turbo.eu/s/cjg)
+All the data is in the `data-*.json` files.
+The data is queried from the overpass turbo api ([example](http://overpass-turbo.eu/s/cjg)).
+
+- `out center;` makes sure we get one node for an area that we can render
+- but we query both nodes and areas since some data is saved as both, area and node
 
 ```
-pip install httpie
+brew install httpie
 sh ./download.sh
 ```
 
 ## Setup
 
-Install the dependencies with bower by running 
+Install the dependencies with bower by running
 
 ```
 bower install
