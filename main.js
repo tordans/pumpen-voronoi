@@ -85,9 +85,9 @@ function   (lodash,         d3,      leaflet) {
     var drawLimit = bounds.pad(0.4);
 
     var filteredPoints = points.filter(function(p) {
-      console.log(type);
+      console.log(p.type);
       // Some are 'way's (areas with a "center"), some are 'node's.
-      if(type == "way") {
+      if(p.type == "way") {
         var latlng = new L.LatLng(p.center.lat, p.center.lon);
       } else {
         var latlng = new L.LatLng(p.lat, p.lon);
