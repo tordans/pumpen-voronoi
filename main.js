@@ -18,8 +18,8 @@ requirejs(['lodash/lodash', 'd3/d3', 'leaflet/dist/leaflet'],
 function   (lodash,         d3,      leaflet) {
   var map = L.map('map').setView([52.505, 13.41], 11);
 
-  L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     maxZoom: 18,
 }).addTo(map);
 
