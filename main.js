@@ -78,6 +78,16 @@ function   (lodash,         d3,      leaflet) {
     map.addLayer(mapLayer);
   });
 
+  function extractLatLon(p) {
+    // Some are 'way's (areas with a "center"), some are 'node's.
+    if(p.type == "way") {
+      var latlng = new L.LatLng(p.center.lat, p.center.lon);
+    } else {
+      var latlng = new L.LatLng(p.lat, p.lon);
+    }
+    return latlng
+  }
+
   function drawLayer(){
     positionSvg();
     var bounds = map.getBounds();
@@ -85,19 +95,12 @@ function   (lodash,         d3,      leaflet) {
     var drawLimit = bounds.pad(0.4);
 
     var filteredPoints = points.filter(function(p) {
-      console.log(p.type);
-      // Some are 'way's (areas with a "center"), some are 'node's.
-      if(p.type == "way") {
-        var latlng = new L.LatLng(p.center.lat, p.center.lon);
-      } else {
-        var latlng = new L.LatLng(p.lat, p.lon);
-      }
-      console.log(latlng);
+      var latlng = extractLatLon(p);
       return drawLimit.contains(latlng);
     });
 
     var convertedPoints = filteredPoints.map(function(p){
-      var latlng = new L.LatLng(p.lat, p.lon);
+      var latlng = extractLatLon(p);
       return map.latLngToLayerPoint(latlng);
     });
 
