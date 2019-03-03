@@ -71,7 +71,7 @@ function   (lodash,         d3,      leaflet) {
 
   var selection = getHashValue('data') ? getHashValue('data') : 'man_made--water_well';
   var data = 'data--' + selection + '.json';
-  console.log(data);
+  // console.log(data);
 
   d3.json(data, function(json){
     points = json.elements;
@@ -85,7 +85,14 @@ function   (lodash,         d3,      leaflet) {
     var drawLimit = bounds.pad(0.4);
 
     var filteredPoints = points.filter(function(p) {
-      var latlng = new L.LatLng(p.lat, p.lon);
+      console.log(type);
+      // Some are 'way's (areas with a "center"), some are 'node's.
+      if(type == "way") {
+        var latlng = new L.LatLng(p.center.lat, p.center.lon);
+      } else {
+        var latlng = new L.LatLng(p.lat, p.lon);
+      }
+      console.log(latlng);
       return drawLimit.contains(latlng);
     });
 
