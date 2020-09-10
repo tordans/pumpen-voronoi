@@ -3,3 +3,4 @@ http --form POST overpass-api.de/api/interpreter data="[out:json];area[name="Ber
 http --form POST overpass-api.de/api/interpreter data="[out:json];area[name="Berlin"];(way[leisure=playground](area);node[leisure=playground](area););out center;" > data--leisure--playground.json
 http --form POST overpass-api.de/api/interpreter data="[out:json];area[name="Berlin"];(way[advertising=column](area);node[advertising=column](area););out center;" > data--advertising--column.json
 http --form POST overpass-api.de/api/interpreter data="[out:json];area[name="Berlin"];(way[bicycle_parking](area);node[bicycle_parking](area););out center;" > data--bicycle_parking.json
+http --form POST overpass-api.de/api/interpreter data="[out:json];area[name=\"Berlin\"];(way[highway=speed_camera](area);node[highway=speed_camera](area););out center;" > data--speed_camera.json
