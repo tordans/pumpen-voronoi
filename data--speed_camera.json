@@ -2,13 +2,430 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-10T19:31:03Z",
+    "timestamp_osm_base": "2020-09-10T19:50:03Z",
     "timestamp_areas_base": "2020-09-10T17:07:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-
+{
+  "type": "node",
+  "id": 26871392,
+  "lat": 52.5654050,
+  "lon": 13.3107301,
+  "tags": {
+    "direction": "180",
+    "highway": "speed_camera",
+    "maxspeed": "40"
+  }
+},
+{
+  "type": "node",
+  "id": 27540883,
+  "lat": 52.4612984,
+  "lon": 13.4200439,
+  "tags": {
+    "direction": "80",
+    "highway": "speed_camera",
+    "layer": "-1",
+    "maxspeed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 27540888,
+  "lat": 52.4611760,
+  "lon": 13.4201134,
+  "tags": {
+    "direction": "260",
+    "highway": "speed_camera",
+    "layer": "-1",
+    "maxspeed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 27543311,
+  "lat": 52.4625336,
+  "lon": 13.4369525,
+  "tags": {
+    "direction": "80",
+    "highway": "speed_camera",
+    "layer": "-1",
+    "maxspeed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 27543322,
+  "lat": 52.4624071,
+  "lon": 13.4369836,
+  "tags": {
+    "direction": "260",
+    "highway": "speed_camera",
+    "layer": "-1",
+    "maxspeed": "80"
+  }
+},
+{
+  "type": "node",
+  "id": 326847472,
+  "lat": 52.5124849,
+  "lon": 13.4869023,
+  "tags": {
+    "description": "Überwachung beider Fahrtrichtungen und aller Fahrspuren",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 421428023,
+  "lat": 52.4645241,
+  "lon": 13.3156148,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 654569720,
+  "lat": 52.4695992,
+  "lon": 13.3858492,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 1111438194,
+  "lat": 52.4642168,
+  "lon": 13.3166365,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 1204201596,
+  "lat": 52.4902351,
+  "lon": 13.3866486,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50",
+    "type": "Poliscan"
+  }
+},
+{
+  "type": "node",
+  "id": 1232458360,
+  "lat": 52.4634395,
+  "lon": 13.4029557,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 2056729122,
+  "lat": 52.5020485,
+  "lon": 13.3766693,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 2445169478,
+  "lat": 52.5336259,
+  "lon": 13.2824921,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 3089136944,
+  "lat": 52.5946850,
+  "lon": 13.2855473,
+  "tags": {
+    "direction": "340",
+    "enforcement": "traffic_signals",
+    "highway": "speed_camera",
+    "maxspeed": "50",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "node",
+  "id": 3430278663,
+  "lat": 52.4541764,
+  "lon": 13.3188164,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50",
+    "type": "Poliscan"
+  }
+},
+{
+  "type": "node",
+  "id": 3430278668,
+  "lat": 52.4785271,
+  "lon": 13.3443108,
+  "tags": {
+    "description": "Poliscan",
+    "direction": "225",
+    "highway": "speed_camera",
+    "maxspeed": "50",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "node",
+  "id": 4489535203,
+  "lat": 52.5146406,
+  "lon": 13.3486782,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 4524162713,
+  "lat": 52.5513079,
+  "lon": 13.4305124,
+  "tags": {
+    "enforcement": "red_light_camera",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 4529208386,
+  "lat": 52.5563672,
+  "lon": 13.3773885,
+  "tags": {
+    "enforcement": "red_light_camera",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 4535090732,
+  "lat": 52.5535792,
+  "lon": 13.4144224,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 4687050395,
+  "lat": 52.4956943,
+  "lon": 13.3312022,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 4849071193,
+  "lat": 52.5180549,
+  "lon": 13.3419408,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 5339245869,
+  "lat": 52.5532224,
+  "lon": 13.3570554,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 5339245872,
+  "lat": 52.5534116,
+  "lon": 13.3574358,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 5771991742,
+  "lat": 52.5098488,
+  "lon": 13.2735988,
+  "tags": {
+    "direction": "180",
+    "enforcement": "traffic_signals",
+    "enforcement_1": "maxspeed",
+    "highway": "speed_camera",
+    "maxspeed": "50",
+    "website": "http://www.blitzberlin.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5851731544,
+  "lat": 52.5128294,
+  "lon": 13.3206485,
+  "tags": {
+    "description": "Rotlicht",
+    "highway": "speed_camera",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "node",
+  "id": 6041831111,
+  "lat": 52.4317809,
+  "lon": 13.5466549,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 6089171136,
+  "lat": 52.5099825,
+  "lon": 13.2814832,
+  "tags": {
+    "direction": "90",
+    "enforcement": "red_light_camera",
+    "highway": "speed_camera",
+    "maxspeed": "50",
+    "website": "http://www.blitzberlin.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 6138892636,
+  "lat": 52.5744024,
+  "lon": 13.3474433,
+  "tags": {
+    "enforcement": "red_light_camera",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 6155792777,
+  "lat": 52.6201479,
+  "lon": 13.2496391,
+  "tags": {
+    "fixme": "Position geschätzt",
+    "highway": "speed_camera",
+    "maxspeed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 6155819306,
+  "lat": 52.6197565,
+  "lon": 13.2497082,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 6155890667,
+  "lat": 52.5029954,
+  "lon": 13.3496924,
+  "tags": {
+    "enforcement": "red_light_camera",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 6155921901,
+  "lat": 52.5253996,
+  "lon": 13.4200525,
+  "tags": {
+    "enforcement": "red_light_camera",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 6156054788,
+  "lat": 52.5533860,
+  "lon": 13.3573664,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 6156142576,
+  "lat": 52.4979131,
+  "lon": 13.3617758,
+  "tags": {
+    "enforcement": "red_light_camera",
+    "highway": "speed_camera",
+    "maxspeed": "30"
+  }
+},
+{
+  "type": "node",
+  "id": 6156193616,
+  "lat": 52.4639165,
+  "lon": 13.4441488,
+  "tags": {
+    "enforcement": "red_light_camera",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 6221205745,
+  "lat": 52.4928977,
+  "lon": 13.4589511,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 7464075631,
+  "lat": 52.4048931,
+  "lon": 13.5550797,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 7580406625,
+  "lat": 52.4629079,
+  "lon": 13.4449420,
+  "tags": {
+    "direction": "-200",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+}
 
   ]
 }
