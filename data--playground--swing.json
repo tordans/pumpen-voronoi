@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "generator": "Overpass API 0.7.56.6 474850e8",
   "osm3s": {
-    "timestamp_osm_base": "2019-03-03T09:47:02Z",
-    "timestamp_areas_base": "2019-03-03T09:28:02Z",
+    "timestamp_osm_base": "2020-09-10T19:31:03Z",
+    "timestamp_areas_base": "2020-09-10T19:21:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -62,6 +62,7 @@
     1830200832
   ],
   "tags": {
+    "access": "yes",
     "leisure": "playground",
     "playground": "swing"
   }
@@ -70,8 +71,8 @@
   "type": "way",
   "id": 283587375,
   "center": {
-    "lat": 52.5045454,
-    "lon": 13.4670634
+    "lat": 52.5045475,
+    "lon": 13.4670690
   },
   "nodes": [
     2874293528,
@@ -85,7 +86,7 @@
     2874293528
   ],
   "tags": {
-    "leisure": "playground",
+    "access": "yes",
     "name": "Doppelschaukeln",
     "playground": "swing",
     "wheelchair": "no"
@@ -119,6 +120,25 @@
   ],
   "tags": {
     "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 390167369,
+  "center": {
+    "lat": 52.5106170,
+    "lon": 13.4600172
+  },
+  "nodes": [
+    7313158469,
+    7252695147
+  ],
+  "tags": {
+    "baby": "no",
+    "blind": "yes",
+    "capacity": "2",
+    "playground": "swing",
+    "wheelchair": "limited"
   }
 },
 {
@@ -164,8 +184,8 @@
   "type": "way",
   "id": 550279948,
   "center": {
-    "lat": 52.4773456,
-    "lon": 13.4497816
+    "lat": 52.4773410,
+    "lon": 13.4497732
   },
   "nodes": [
     5315035815,
@@ -356,6 +376,151 @@
   "nodes": [
     5912231394,
     5912231395
+  ],
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 679922933,
+  "center": {
+    "lat": 52.4898109,
+    "lon": 13.4171654
+  },
+  "nodes": [
+    6366289636,
+    6366289635
+  ],
+  "tags": {
+    "capacity": "1",
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 689430678,
+  "center": {
+    "lat": 52.4594726,
+    "lon": 13.2956253
+  },
+  "nodes": [
+    6467604850,
+    6467604849
+  ],
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 712222717,
+  "center": {
+    "lat": 52.5059999,
+    "lon": 13.3955627
+  },
+  "nodes": [
+    6696667167,
+    6696667166
+  ],
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 777433577,
+  "center": {
+    "lat": 52.4357629,
+    "lon": 13.5442302
+  },
+  "nodes": [
+    7254798435,
+    7254798417
+  ],
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 781516912,
+  "center": {
+    "lat": 52.4311406,
+    "lon": 13.7148144
+  },
+  "nodes": [
+    7296568725,
+    7296568724
+  ],
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 802555989,
+  "center": {
+    "lat": 52.4496070,
+    "lon": 13.4468746
+  },
+  "nodes": [
+    7507132066,
+    7507132065,
+    7507132064,
+    7507132063,
+    7507132062,
+    7507132061,
+    7507132066
+  ],
+  "tags": {
+    "area": "no",
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 830099969,
+  "center": {
+    "lat": 52.4783865,
+    "lon": 13.4353523
+  },
+  "nodes": [
+    7747251270,
+    7747251269
+  ],
+  "tags": {
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 833831421,
+  "center": {
+    "lat": 52.4766640,
+    "lon": 13.4654990
+  },
+  "nodes": [
+    5761728343,
+    7783823224
+  ],
+  "tags": {
+    "capacity": "2",
+    "playground": "swing"
+  }
+},
+{
+  "type": "way",
+  "id": 843173556,
+  "center": {
+    "lat": 52.4653345,
+    "lon": 13.3893979
+  },
+  "nodes": [
+    7865466129,
+    7865466128
   ],
   "tags": {
     "playground": "swing"

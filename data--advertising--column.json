@@ -1,37 +1,13 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2019-03-03T09:47:02Z",
-    "timestamp_areas_base": "2019-03-03T09:36:02Z",
+    "timestamp_osm_base": "2020-09-10T19:31:03Z",
+    "timestamp_areas_base": "2020-09-10T17:07:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-{
-  "type": "way",
-  "id": 134196792,
-  "center": {
-    "lat": 52.5156408,
-    "lon": 13.3370000
-  },
-  "nodes": [
-    1475898827,
-    1475898823,
-    1475898825,
-    1475898829,
-    1475898833,
-    1475898835,
-    1475898834,
-    1475898832,
-    1475898827
-  ],
-  "tags": {
-    "advertising": "column",
-    "building": "yes",
-    "source": "HiRes aerial imagery"
-  }
-},
 {
   "type": "way",
   "id": 134364297,
@@ -56,6 +32,37 @@
     "advertising": "column",
     "building": "yes",
     "source": "HiRes aerial imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 432834310,
+  "center": {
+    "lat": 52.5078990,
+    "lon": 13.4639279
+  },
+  "nodes": [
+    6783544495,
+    6783544493,
+    6783544492,
+    6783544491,
+    6783544494,
+    388591683,
+    6783544490,
+    6783544489,
+    6783544495
+  ],
+  "tags": {
+    "access": "yes",
+    "advertising": "column",
+    "amenity": "toilets",
+    "centralkey": "eurokey",
+    "changing_table": "no",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "operator": "Wall GmbH",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
   }
 }
 
