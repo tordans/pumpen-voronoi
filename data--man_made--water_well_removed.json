@@ -1,0 +1,1232 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2020-09-11T19:19:02Z",
+    "timestamp_areas_base": "2020-09-11T18:05:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 773981001,
+  "lat": 52.4986278,
+  "lon": 13.3145172,
+  "tags": {
+    "addr:full": "Bayerische Straße 33*34",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "image": "File:Wilmersdorf Bayerische Straße 33.jpg",
+    "ref": "8",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 822848342,
+  "lat": 52.4969831,
+  "lon": 13.3845452,
+  "tags": {
+    "addr:full": "Großbeerenstraße 17a",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #19 im Ortsteil Kreuzberg.",
+    "image": "File:Straßenbrunnenex19 Kreuzberg Großbeerenstraße (2).jpg",
+    "official_ref": "Kr019",
+    "operator": "Land",
+    "ref": "19",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "1956",
+    "water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 897264445,
+  "lat": 52.4720602,
+  "lon": 13.4515423,
+  "tags": {
+    "addr:full": "Braunschweigerstr./Niemetzstr.",
+    "check_date": "2020-01-11",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #25 im Ortsteil Neukölln",
+    "official_ref": "NK025",
+    "operator": "Land",
+    "ref": "25",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 912003198,
+  "lat": 52.4957472,
+  "lon": 13.4185623,
+  "tags": {
+    "addr:full": "Planufer 93a",
+    "check_date": "2019-12-01",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #17 im Ortsteil Kreuzberg. Nur noch Becken in Bordstein zu sehen.",
+    "image": "File:Str.brunnen Kreuzberg Planufer 93.jpg",
+    "official_ref": "Kr017",
+    "operator": "Land",
+    "ref": "17",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "1960",
+    "water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 928994439,
+  "lat": 52.5032723,
+  "lon": 13.4375401,
+  "tags": {
+    "addr:full": "Köpenicker Straße 181",
+    "check_date": "2018-05-19",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #63 im Ortsteil Kreuzberg.",
+    "image": "File:Ex-Standort Straßenbrunnen 63 Kreuzberg Köpenicher (2).jpg",
+    "official_ref": "Kr063",
+    "operator": "Bund",
+    "ref": "63",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "2005",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 940066691,
+  "lat": 52.5255841,
+  "lon": 13.3333330,
+  "tags": {
+    "addr:full": "Zwinglistraße 5a",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen #49",
+    "image": "File:Moabit Zwinglistraße ehemaliger Standort Pumpe 49.jpg",
+    "operator": "Land",
+    "ref": "49",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 940066706,
+  "lat": 52.5300842,
+  "lon": 13.3386998,
+  "tags": {
+    "addr:full": "Wiclefstraße 65",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen61-Moabit-Bremer-Wiclef (6).jpg",
+    "operator": "Land",
+    "removed:colour": "#35412E",
+    "removed:drinking_water:legal": "no",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:status": "ok",
+    "removed:pump:style": "Lauchhammer",
+    "removed:pump:type": "beam_pump",
+    "removed:ref": "61",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 963643060,
+  "lat": 52.4917698,
+  "lon": 13.3908276,
+  "tags": {
+    "addr:full": "Nostitzstraße 49",
+    "check_date": "2018",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #58 im Ortsteil Kreuzberg.",
+    "image": "File:Straßenbrunnen ex58 Kreuzberg Nostitzstraße (2).jpg",
+    "official_ref": "Kr058",
+    "operator": "Land",
+    "ref": "58",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "1966",
+    "water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 974019037,
+  "lat": 52.4938940,
+  "lon": 13.4148734,
+  "tags": {
+    "addr:full": "Grimmstraße 24",
+    "check_date": "2020-08-25",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "image": "File:Str.brunnen Kreuzberg Grimmstr.jpg",
+    "official_ref": "Kr018",
+    "operator": "Land",
+    "ref": "18",
+    "removed:colour": "#35412E",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:status": "ok",
+    "removed:pump:style": "Wolf",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "1971",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 1143506205,
+  "lat": 52.4288350,
+  "lon": 13.3651192,
+  "tags": {
+    "addr:full": "Haynauer Straße 9",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "official_ref": "St041",
+    "operator": "Land",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:status": "broken",
+    "removed:pump:style": "Königsständer",
+    "removed:pump:type": "beam_pump",
+    "removed:ref": "41",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Steglitz-Zehlendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 1166433757,
+  "lat": 52.4948733,
+  "lon": 13.3125912,
+  "tags": {
+    "addr:full": "Wittelsbacherstraße ggü. 27a",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "image": "File:Wilmersdorf Wittelsbacherstraße 11.jpg",
+    "ref": "81",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:style": "Rümmler",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 1198768344,
+  "lat": 52.4991292,
+  "lon": 13.4113979,
+  "tags": {
+    "addr:full": "Wassertorstraße 4",
+    "check_date": "2018-05-20",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #49 im Ortsteil Kreuzberg.",
+    "image": "File:Straßenbrunnen ex49 Kreuzberg Wassertorstraße (10).jpg",
+    "official_ref": "Kr049",
+    "operator": "Land",
+    "ref": "49",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "1956",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 1245675978,
+  "lat": 52.4971199,
+  "lon": 13.4459037,
+  "tags": {
+    "addr:full": "Taborstraße 7",
+    "check_date": "2018-05-19",
+    "description": "Tränkstein im Gehweg verweist auf den ehemaligen Standort des Berliner Straßenbrunnens #53 im Ortsteil Kreuzberg.",
+    "image": "File:Str.brunnen Kreuzberg Taborstr.jpg",
+    "official_ref": "Kr053",
+    "operator": "Land",
+    "ref": "53",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "1964",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 1411531866,
+  "lat": 52.5288804,
+  "lon": 13.1332309,
+  "tags": {
+    "addr:full": "Nennhauser Damm 126",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen00 Staaken NennhauserDamm126 (1).jpg",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:style": "Rümmler",
+    "removed:pump:type": "beam_pump",
+    "water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
+  }
+},
+{
+  "type": "node",
+  "id": 1739575765,
+  "lat": 52.4979553,
+  "lon": 13.3530493,
+  "tags": {
+    "addr:full": "Nollendorfstraße 33",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #70 im Ortsteil Schöneberg.",
+    "image": "File:Straßenbrunnen ex70 Schöneberg Nollendorfstraße (3).jpg",
+    "ref": "70",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Tempelhof-Schöneberg"
+  }
+},
+{
+  "type": "node",
+  "id": 1870338693,
+  "lat": 52.4698870,
+  "lon": 13.4205441,
+  "tags": {
+    "addr:full": "Oderstraße 16/Warthestraße",
+    "depth": "33.1",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "image": "File:Abgebauter Straßenbrunnen 99 Oderstraße Neukölln.jpg",
+    "official_ref": "NK099",
+    "operator": "Bund",
+    "removed:colour": "#35412E",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:status": "broken",
+    "removed:pump:style": "Rümmler",
+    "removed:pump:type": "beam_pump",
+    "removed:ref": "99",
+    "removed:water_well": "pump",
+    "start_date": "1971",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 2225887779,
+  "lat": 52.5423776,
+  "lon": 13.3632220,
+  "tags": {
+    "addr:full": "Willdenowstraße 21",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen #20",
+    "image": "File:Straßenbrunnen ex20 Mitte Willdenowstraße (2).jpg",
+    "operator": "Land",
+    "ref": "20",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 6005240116,
+  "lat": 52.4999308,
+  "lon": 13.3888951,
+  "tags": {
+    "addr:full": "Wilhelmstr. 2 / Friedrich-Stampfer-Str.",
+    "check_date": "2018",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #50 im Ortsteil Kreuzberg.",
+    "image": "File:Straßenbrunnenex50 Kreuzberg Wilhelmstraße (2).jpg",
+    "official_ref": "Kr050",
+    "operator": "Land",
+    "ref": "50",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "1975",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 6005240127,
+  "lat": 52.4923424,
+  "lon": 13.4178965,
+  "tags": {
+    "addr:full": "Dieffenbachstraße 54",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #11 im Ortsteil Kreuzberg.",
+    "image": "File:Straßenbrunnen ex11 Kreuzberg Dieffenbachstraße (1).jpg",
+    "official_ref": "Kr011",
+    "operator": "Land",
+    "ref": "11",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "start_date": "1959",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Friedrichshain-Kreuzberg"
+  }
+},
+{
+  "type": "node",
+  "id": 6019010155,
+  "lat": 52.4855573,
+  "lon": 13.3589052,
+  "tags": {
+    "addr:full": "Herbertstraße 9",
+    "check_date": "2018",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #117 im Ortsteil Schöneberg, nur noch erkennbar an einem Pflasterkarree.",
+    "image": "File:Straßenbrunnen ex117 Schöneberg Herbertstraße (1).jpg",
+    "official_ref": "117",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Tempelhof-Schöneberg"
+  }
+},
+{
+  "type": "node",
+  "id": 6025617668,
+  "lat": 52.4980665,
+  "lon": 13.3487555,
+  "tags": {
+    "addr:full": "Motzstraße 22",
+    "check_date": "2018-10-30",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens, noch erkennbar an einer Rille im Bordstein.",
+    "image": "File:ExStraßenbrunnen Schöneberg Motzstraße.jpg",
+    "operator": "Bund",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Tempelhof-Schöneberg"
+  }
+},
+{
+  "type": "node",
+  "id": 6025617669,
+  "lat": 52.4902924,
+  "lon": 13.3466763,
+  "tags": {
+    "addr:full": "Rosenheimer Straße 29a",
+    "check_date": "2018-10-30",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens, noch erkennbar an einer Rille im Bordstein und neuerer Pflasterung.",
+    "image": "File:ExStraßenbrunnen Schöneberg Rosenheimer Straße 29a.jpg",
+    "operator": "Bund",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Tempelhof-Schöneberg"
+  }
+},
+{
+  "type": "node",
+  "id": 6438435825,
+  "lat": 52.4497109,
+  "lon": 13.4369305,
+  "tags": {
+    "addr:full": "Britzer Damm 147/ Fullhamer Allee",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #144",
+    "image": "File:Straßenbrunnen Britz 144 Britzer Damm 147.jpg",
+    "official_ref": "NK144",
+    "operator": "Land",
+    "ref": "144",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:style": "Rümmler",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7167394529,
+  "lat": 52.5388984,
+  "lon": 13.3603888,
+  "tags": {
+    "addr:full": "Tegeler Straße 6/7",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:ExStrBr XXX Wedding Tegeler Straße (2).jpg",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 7167394530,
+  "lat": 52.5290752,
+  "lon": 13.3932154,
+  "tags": {
+    "addr:full": "Gartenstraße 3",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:StrBr Standort OT Mitte Gartenstraße-Torstraße (3).jpg",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 7167394566,
+  "lat": 52.5525429,
+  "lon": 13.3669716,
+  "tags": {
+    "addr:full": "Nauener Platz",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen #234",
+    "image": "File:StrBr Standort Nauener Platz (2).jpg",
+    "operator": "Land",
+    "ref": "234",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Mitte"
+  }
+},
+{
+  "type": "node",
+  "id": 7170453192,
+  "lat": 52.5330642,
+  "lon": 13.1596911,
+  "tags": {
+    "addr:full": "Brunsbütteler Damm 251",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen NIX Staaken BrunsbüttlerDamm 251 (8).jpg",
+    "official_ref": "SP099",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:style": "FSH-L",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
+  }
+},
+{
+  "type": "node",
+  "id": 7170453242,
+  "lat": 52.5335875,
+  "lon": 13.1544235,
+  "tags": {
+    "addr:full": "Barmbeker Weg ggü. 3",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen #50",
+    "image": "File:Straßenbrunnen ex50 Staaken Barmbeker Weg (plus).jpg",
+    "operator": "Land",
+    "ref": "50",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
+  }
+},
+{
+  "type": "node",
+  "id": 7172013155,
+  "lat": 52.6013708,
+  "lon": 13.3384625,
+  "tags": {
+    "addr:full": "Eichhorster Weg/ Schlitzer Straße 43",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:StreBr ex63 Wittenau SchlitzerStr EichhorsterWeg (1).jpg",
+    "operator": "Land",
+    "ref": "63",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172013156,
+  "lat": 52.6163086,
+  "lon": 13.3069822,
+  "tags": {
+    "addr:full": "Fellbacher Straße 3",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen-ex44 Hermsdorf Fellbachstraße (2).jpg",
+    "operator": "Land",
+    "ref": "44",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172013157,
+  "lat": 52.5737128,
+  "lon": 13.3447361,
+  "tags": {
+    "addr:full": "Becherweg ggü. 1",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen71 ex ReinDorf Becherweg Humboldtstraße (2).jpg",
+    "operator": "Land",
+    "ref": "71",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172013158,
+  "lat": 52.6077186,
+  "lon": 13.3445493,
+  "tags": {
+    "addr:full": "Wittenauer Straße ggü. 139a",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen ex131-nix Lübars Wittenauer Straße Kieselbronner Weg (5).jpg",
+    "operator": "Land",
+    "ref": "136",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172013161,
+  "lat": 52.6302032,
+  "lon": 13.2788584,
+  "tags": {
+    "addr:full": "Sigismundkorso / Donnersmarckplatz",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "image": "File:Straßenbrunnen ex Frohnau Sigismundkorso Donnersmarckplatz (2).jpg",
+    "official_ref": "R0185",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172013162,
+  "lat": 52.5829077,
+  "lon": 13.3425347,
+  "tags": {
+    "addr:full": "Brodersenstraße 2",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen ex Wittenau Tessenowstraße (2).jpg",
+    "official_ref": "R0070",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172013163,
+  "lat": 52.5831483,
+  "lon": 13.2996636,
+  "tags": {
+    "addr:full": "Ernststraße 47",
+    "description": "Ehemaliger Standort Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen ex Borsigwalde Ernstraße (Asphalt).png",
+    "official_ref": "R0026",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7172018284,
+  "lat": 52.6141293,
+  "lon": 13.3242165,
+  "tags": {
+    "addr:full": "Seestraße 11",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen-022 Hermsdorf Lotosstraße Seestraße (20).jpg",
+    "operator": "Land",
+    "ref": "22",
+    "removed:colour": "#35412E",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:style": "modern",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7386115567,
+  "lat": 52.4102865,
+  "lon": 13.4787075,
+  "tags": {
+    "addr:full": "Groß-Ziethener-Chaussee 124",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #185",
+    "image": "File:Straßenbrunnen ex185 Rudow Groß-Ziethener Chaussee 2010-2020 (2).JPG",
+    "official_ref": "NK185",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386115573,
+  "lat": 52.4243369,
+  "lon": 13.4766204,
+  "tags": {
+    "addr:full": "Käthe-Dorsch-Ring ggü. Nr 11",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #178",
+    "official_ref": "NK178",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386115584,
+  "lat": 52.4222829,
+  "lon": 13.4792567,
+  "tags": {
+    "addr:full": "Theodor-Loos-Weg Nr. 13",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #78",
+    "official_ref": "NK078",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146786,
+  "lat": 52.4269784,
+  "lon": 13.4511425,
+  "tags": {
+    "addr:full": "Wermuthweg 12a/Johannisthaler Ch.",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #103",
+    "fixme": "Genaue Position unbekannt.",
+    "official_ref": "NK103",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146813,
+  "lat": 52.4173912,
+  "lon": 13.4119548,
+  "tags": {
+    "addr:full": "Muschelkalkweg/Marienfelder Chaussee",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #96",
+    "official_ref": "NK096",
+    "operator": "Bund",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146837,
+  "lat": 52.4579779,
+  "lon": 13.4481673,
+  "tags": {
+    "addr:full": "Buschkrugallee/Franz Körner Straße",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #168",
+    "official_ref": "NK168",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146838,
+  "lat": 52.4531952,
+  "lon": 13.4339756,
+  "tags": {
+    "addr:full": "Am Straßenbahnhof 56-57/Gradestr.",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #65",
+    "official_ref": "NK065",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146844,
+  "lat": 52.4618467,
+  "lon": 13.4406881,
+  "tags": {
+    "addr:full": "Rungiusstraße/Bürgerstraße",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #34",
+    "official_ref": "NK034",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146848,
+  "lat": 52.4746470,
+  "lon": 13.4508215,
+  "tags": {
+    "addr:full": "Bartastr. (Wendekehre)",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #61",
+    "official_ref": "NK061",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146850,
+  "lat": 52.4754612,
+  "lon": 13.4312661,
+  "tags": {
+    "addr:full": "Neuwedeller Str./Mittelweg",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #43",
+    "official_ref": "NK043",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146853,
+  "lat": 52.4640895,
+  "lon": 13.4647852,
+  "tags": {
+    "addr:full": "Schmalenbach Str. Ecke Haberstr.",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #130",
+    "official_ref": "NK130",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7386146855,
+  "lat": 52.4801748,
+  "lon": 13.4287581,
+  "tags": {
+    "addr:full": "Boddinplatz/Boddinstr. ggü. Nr.21",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens #28",
+    "official_ref": "NK028",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7402515093,
+  "lat": 52.4886388,
+  "lon": 13.3195704,
+  "tags": {
+    "addr:full": "Sigmaringer Straße 5",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "ref": "71",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7402515101,
+  "lat": 52.4801751,
+  "lon": 13.3317003,
+  "tags": {
+    "addr:full": "Bruchsaler Straße 18",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Charlottenburg-Wilmersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7836003176,
+  "lat": 52.4273103,
+  "lon": 13.2182731,
+  "tags": {
+    "addr:full": "Wiesenschlag 4",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "official_ref": "Zd079",
+    "operator": "Land",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:ref": "79",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Steglitz-Zehlendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7836005590,
+  "lat": 52.4228584,
+  "lon": 13.2700191,
+  "tags": {
+    "addr:full": "Leo-Baeck-Straße ggü. 48",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "image": "File:Zehlendorf Leo-Baeck-Straße Standort Wasserpumpe 58.jpg",
+    "official_ref": "Zd058",
+    "operator": "Land",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:status": "broken",
+    "removed:pump:style": "Wolf",
+    "removed:pump:type": "beam_pump",
+    "removed:ref": "58",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Steglitz-Zehlendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7836005609,
+  "lat": 52.4318133,
+  "lon": 13.2490508,
+  "tags": {
+    "addr:full": "Hohenzollernstraße ggü. 31",
+    "description": "Ehemaliger Berliner Straßenbrunnen, umgenutzt zu einer Grundwassermessstelle.",
+    "image": "File:Zehlendorf Hohenzollernstraße Beobachtungsbrunnen.jpg",
+    "man_made": "monitoring_station",
+    "monitoring:groundwater": "yes",
+    "operator": "Land",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:official_ref": "Zd032",
+    "removed:pump": "manual",
+    "removed:pump:status": "broken",
+    "removed:pump:type": "beam_pump",
+    "removed:ref": "32",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Steglitz-Zehlendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7836005612,
+  "lat": 52.4119380,
+  "lon": 13.2566180,
+  "tags": {
+    "addr:full": "Windsteiner Weg 23–45",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "image": "File:Straßenbrunnen ex29 Zehlendorf WindsteinerWeg (11).jpg",
+    "official_ref": "Zd029",
+    "operator": "Land",
+    "ref": "29",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:status": "broken",
+    "removed:pump:style": "Rümmler",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Steglitz-Zehlendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7857648673,
+  "lat": 52.6149377,
+  "lon": 13.2248914,
+  "tags": {
+    "addr:full": "Mattenbuder Pfad 49",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "R0143",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7857659285,
+  "lat": 52.5675531,
+  "lon": 13.3732048,
+  "tags": {
+    "addr:full": "Mittelbruchzeile ggü. 70 / Reginhardtstraße",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "R0077",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7857659286,
+  "lat": 52.5692552,
+  "lon": 13.3138653,
+  "tags": {
+    "addr:full": "Graf-Haeseler-Straße 8",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "R0045",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7857659287,
+  "lat": 52.6366374,
+  "lon": 13.2781243,
+  "tags": {
+    "addr:full": "Alemannenstraße / Stolzingstraße",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "R0035",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7857659288,
+  "lat": 52.5847685,
+  "lon": 13.2269752,
+  "tags": {
+    "addr:full": "Falkenplatz / Konradhöhe",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "R0012",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7857659289,
+  "lat": 52.6098507,
+  "lon": 13.2141525,
+  "tags": {
+    "addr:full": "Dorfaue / Alt-Heiligensee 20",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "R0011",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Reinickendorf"
+  }
+},
+{
+  "type": "node",
+  "id": 7858210958,
+  "lat": 52.5189670,
+  "lon": 13.1865834,
+  "tags": {
+    "addr:full": "Gatower Straße 14",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "SP151",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
+  }
+},
+{
+  "type": "node",
+  "id": 7858210959,
+  "lat": 52.5552555,
+  "lon": 13.1951968,
+  "tags": {
+    "addr:full": "Radelandstraße 1",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "SP150",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
+  }
+},
+{
+  "type": "node",
+  "id": 7858210960,
+  "lat": 52.5327975,
+  "lon": 13.2082084,
+  "tags": {
+    "addr:full": "Freiheit 3 / Schürstraße",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "official_ref": "SP084",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
+  }
+},
+{
+  "type": "node",
+  "id": 7858210961,
+  "lat": 52.5310682,
+  "lon": 13.2369983,
+  "tags": {
+    "addr:full": "Sigismundkorso / Donnersmarckplatz",
+    "description": "Ehemaliger Standort eines Berliner Straßenbrunnens",
+    "image": "File:Straßenbrunnen ex Frohnau Sigismundkorso Donnersmarckplatz (2).jpg",
+    "official_ref": "SP083",
+    "operator": "Land",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Spandau"
+  }
+},
+{
+  "type": "node",
+  "id": 7866146576,
+  "lat": 52.4848661,
+  "lon": 13.4484809,
+  "tags": {
+    "addr:full": "Elsenstraße 55",
+    "description": "Ehemaliger Standort des Berliner Straßenbrunnens Nr. 121",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:style": "Rümmler",
+    "removed:pump:type": "beam_pump",
+    "removed:ref": "121",
+    "removed:water_well": "pump",
+    "wikipedia": "de:Liste der Straßenbrunnen im Berliner Bezirk Neukölln"
+  }
+},
+{
+  "type": "node",
+  "id": 7867426922,
+  "lat": 52.4656796,
+  "lon": 13.3889370,
+  "tags": {
+    "addr:full": "Alt-Tempelhof 3",
+    "description": "Ehemaliger Berliner Straßenbrunnen",
+    "removed:emergency": "drinking_water",
+    "removed:man_made": "water_well",
+    "removed:pump": "manual",
+    "removed:pump:type": "beam_pump",
+    "removed:ref": "102",
+    "removed:water_well": "pump"
+  }
+}
+
+  ]
+}
